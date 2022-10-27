@@ -7,6 +7,8 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -53,8 +55,7 @@ public class Main {
 //                        s_i = Integer.min(s_i, -currentDomain.getL());
                         // s_i = s_i
                         return true;
-                    }
-                    else if (-s_i <= currentDomain.getL()){
+                    } else if (-s_i <= currentDomain.getL()) {
                         s_i = -currentDomain.getL();
                         s[t_iID] = s_i;
                         l[t_iID] = 1;
@@ -89,10 +90,7 @@ public class Main {
         return true;
     }
 
-
-    public static void main(String[] args) throws IOException, ParseException {
-
-        File file = new File("src/main/resources/feas/inc-1.json");
+    public static void checkFeasibility(File file) throws IOException, ParseException {
         Graph graph = new GraphFactory().getGraph(file);
 
         int nTimePoints = graph.getnTimePoints();
@@ -121,8 +119,20 @@ public class Main {
                 break;
             }
         }
-        if(feasible){
+        if (feasible) {
             writeSolutionToJsonFile(s, file);
+        }
+    }
+
+
+    public static void main(String[] args) throws IOException, ParseException {
+        File file = new File("src/main/resources/feas");
+        if(file.isDirectory()){
+            for(File f : file.listFiles()){
+                checkFeasibility(f);
+            }
+        } else {
+            checkFeasibility(file);
         }
     }
 }
