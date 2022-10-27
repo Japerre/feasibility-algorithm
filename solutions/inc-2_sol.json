@@ -1,0 +1,6408 @@
+{
+  "solutions": [
+    {
+      "solution": 0,
+      "ID": 0
+    },
+    {
+      "solution": -73474,
+      "ID": 1
+    },
+    {
+      "solution": -18237,
+      "ID": 2
+    },
+    {
+      "solution": -37258,
+      "ID": 3
+    },
+    {
+      "solution": -33462,
+      "ID": 4
+    },
+    {
+      "solution": -51334,
+      "ID": 5
+    },
+    {
+      "solution": -14194,
+      "ID": 6
+    },
+    {
+      "solution": -7356,
+      "ID": 7
+    },
+    {
+      "solution": -40876,
+      "ID": 8
+    },
+    {
+      "solution": -66131,
+      "ID": 9
+    },
+    {
+      "solution": -14972,
+      "ID": 10
+    },
+    {
+      "solution": -41153,
+      "ID": 11
+    },
+    {
+      "solution": -60041,
+      "ID": 12
+    },
+    {
+      "solution": -12063,
+      "ID": 13
+    },
+    {
+      "solution": -55563,
+      "ID": 14
+    },
+    {
+      "solution": -20563,
+      "ID": 15
+    },
+    {
+      "solution": -66850,
+      "ID": 16
+    },
+    {
+      "solution": -8901,
+      "ID": 17
+    },
+    {
+      "solution": -14275,
+      "ID": 18
+    },
+    {
+      "solution": -69055,
+      "ID": 19
+    },
+    {
+      "solution": -10102,
+      "ID": 20
+    },
+    {
+      "solution": -50081,
+      "ID": 21
+    },
+    {
+      "solution": -28254,
+      "ID": 22
+    },
+    {
+      "solution": -36052,
+      "ID": 23
+    },
+    {
+      "solution": -59030,
+      "ID": 24
+    },
+    {
+      "solution": -902,
+      "ID": 25
+    },
+    {
+      "solution": -18767,
+      "ID": 26
+    },
+    {
+      "solution": -49643,
+      "ID": 27
+    },
+    {
+      "solution": -66676,
+      "ID": 28
+    },
+    {
+      "solution": -40404,
+      "ID": 29
+    },
+    {
+      "solution": -2843,
+      "ID": 30
+    },
+    {
+      "solution": -55995,
+      "ID": 31
+    },
+    {
+      "solution": -66409,
+      "ID": 32
+    },
+    {
+      "solution": -42253,
+      "ID": 33
+    },
+    {
+      "solution": -34815,
+      "ID": 34
+    },
+    {
+      "solution": -4428,
+      "ID": 35
+    },
+    {
+      "solution": -12200,
+      "ID": 36
+    },
+    {
+      "solution": -26424,
+      "ID": 37
+    },
+    {
+      "solution": -37392,
+      "ID": 38
+    },
+    {
+      "solution": -38381,
+      "ID": 39
+    },
+    {
+      "solution": -41561,
+      "ID": 40
+    },
+    {
+      "solution": -20871,
+      "ID": 41
+    },
+    {
+      "solution": -23116,
+      "ID": 42
+    },
+    {
+      "solution": -29906,
+      "ID": 43
+    },
+    {
+      "solution": -22393,
+      "ID": 44
+    },
+    {
+      "solution": -16491,
+      "ID": 45
+    },
+    {
+      "solution": -31859,
+      "ID": 46
+    },
+    {
+      "solution": -52628,
+      "ID": 47
+    },
+    {
+      "solution": -5511,
+      "ID": 48
+    },
+    {
+      "solution": -25090,
+      "ID": 49
+    },
+    {
+      "solution": -24881,
+      "ID": 50
+    },
+    {
+      "solution": -9522,
+      "ID": 51
+    },
+    {
+      "solution": -28999,
+      "ID": 52
+    },
+    {
+      "solution": -56370,
+      "ID": 53
+    },
+    {
+      "solution": -60724,
+      "ID": 54
+    },
+    {
+      "solution": -41352,
+      "ID": 55
+    },
+    {
+      "solution": -39215,
+      "ID": 56
+    },
+    {
+      "solution": -20054,
+      "ID": 57
+    },
+    {
+      "solution": -7287,
+      "ID": 58
+    },
+    {
+      "solution": -32383,
+      "ID": 59
+    },
+    {
+      "solution": -36849,
+      "ID": 60
+    },
+    {
+      "solution": -24276,
+      "ID": 61
+    },
+    {
+      "solution": -29753,
+      "ID": 62
+    },
+    {
+      "solution": -63001,
+      "ID": 63
+    },
+    {
+      "solution": -62971,
+      "ID": 64
+    },
+    {
+      "solution": -60153,
+      "ID": 65
+    },
+    {
+      "solution": -27335,
+      "ID": 66
+    },
+    {
+      "solution": -34104,
+      "ID": 67
+    },
+    {
+      "solution": -58511,
+      "ID": 68
+    },
+    {
+      "solution": -32740,
+      "ID": 69
+    },
+    {
+      "solution": -28581,
+      "ID": 70
+    },
+    {
+      "solution": -15561,
+      "ID": 71
+    },
+    {
+      "solution": -40226,
+      "ID": 72
+    },
+    {
+      "solution": -21807,
+      "ID": 73
+    },
+    {
+      "solution": -41723,
+      "ID": 74
+    },
+    {
+      "solution": -32354,
+      "ID": 75
+    },
+    {
+      "solution": -54446,
+      "ID": 76
+    },
+    {
+      "solution": -31417,
+      "ID": 77
+    },
+    {
+      "solution": -6994,
+      "ID": 78
+    },
+    {
+      "solution": -62458,
+      "ID": 79
+    },
+    {
+      "solution": -43819,
+      "ID": 80
+    },
+    {
+      "solution": -7071,
+      "ID": 81
+    },
+    {
+      "solution": -36198,
+      "ID": 82
+    },
+    {
+      "solution": -38186,
+      "ID": 83
+    },
+    {
+      "solution": -28857,
+      "ID": 84
+    },
+    {
+      "solution": -15299,
+      "ID": 85
+    },
+    {
+      "solution": -26508,
+      "ID": 86
+    },
+    {
+      "solution": -310,
+      "ID": 87
+    },
+    {
+      "solution": 3010,
+      "ID": 88
+    },
+    {
+      "solution": -36629,
+      "ID": 89
+    },
+    {
+      "solution": -35845,
+      "ID": 90
+    },
+    {
+      "solution": -69754,
+      "ID": 91
+    },
+    {
+      "solution": -21350,
+      "ID": 92
+    },
+    {
+      "solution": -54147,
+      "ID": 93
+    },
+    {
+      "solution": -48242,
+      "ID": 94
+    },
+    {
+      "solution": -26780,
+      "ID": 95
+    },
+    {
+      "solution": -54229,
+      "ID": 96
+    },
+    {
+      "solution": -35090,
+      "ID": 97
+    },
+    {
+      "solution": -64183,
+      "ID": 98
+    },
+    {
+      "solution": -61832,
+      "ID": 99
+    },
+    {
+      "solution": -62969,
+      "ID": 100
+    },
+    {
+      "solution": -24445,
+      "ID": 101
+    },
+    {
+      "solution": -30800,
+      "ID": 102
+    },
+    {
+      "solution": -34551,
+      "ID": 103
+    },
+    {
+      "solution": -20655,
+      "ID": 104
+    },
+    {
+      "solution": -10340,
+      "ID": 105
+    },
+    {
+      "solution": -47284,
+      "ID": 106
+    },
+    {
+      "solution": -13582,
+      "ID": 107
+    },
+    {
+      "solution": -13604,
+      "ID": 108
+    },
+    {
+      "solution": -27402,
+      "ID": 109
+    },
+    {
+      "solution": -9626,
+      "ID": 110
+    },
+    {
+      "solution": -52693,
+      "ID": 111
+    },
+    {
+      "solution": -75065,
+      "ID": 112
+    },
+    {
+      "solution": -63912,
+      "ID": 113
+    },
+    {
+      "solution": -22188,
+      "ID": 114
+    },
+    {
+      "solution": -13290,
+      "ID": 115
+    },
+    {
+      "solution": -26394,
+      "ID": 116
+    },
+    {
+      "solution": -37198,
+      "ID": 117
+    },
+    {
+      "solution": 355,
+      "ID": 118
+    },
+    {
+      "solution": -31906,
+      "ID": 119
+    },
+    {
+      "solution": -38202,
+      "ID": 120
+    },
+    {
+      "solution": -65377,
+      "ID": 121
+    },
+    {
+      "solution": -14009,
+      "ID": 122
+    },
+    {
+      "solution": 1694,
+      "ID": 123
+    },
+    {
+      "solution": -27751,
+      "ID": 124
+    },
+    {
+      "solution": -46968,
+      "ID": 125
+    },
+    {
+      "solution": 10638,
+      "ID": 126
+    },
+    {
+      "solution": -27973,
+      "ID": 127
+    },
+    {
+      "solution": -15140,
+      "ID": 128
+    },
+    {
+      "solution": -19873,
+      "ID": 129
+    },
+    {
+      "solution": -38618,
+      "ID": 130
+    },
+    {
+      "solution": -69768,
+      "ID": 131
+    },
+    {
+      "solution": -48237,
+      "ID": 132
+    },
+    {
+      "solution": -30443,
+      "ID": 133
+    },
+    {
+      "solution": -11703,
+      "ID": 134
+    },
+    {
+      "solution": -50828,
+      "ID": 135
+    },
+    {
+      "solution": -6854,
+      "ID": 136
+    },
+    {
+      "solution": -65858,
+      "ID": 137
+    },
+    {
+      "solution": 4167,
+      "ID": 138
+    },
+    {
+      "solution": -17703,
+      "ID": 139
+    },
+    {
+      "solution": -46756,
+      "ID": 140
+    },
+    {
+      "solution": -36578,
+      "ID": 141
+    },
+    {
+      "solution": -34018,
+      "ID": 142
+    },
+    {
+      "solution": -16020,
+      "ID": 143
+    },
+    {
+      "solution": -36786,
+      "ID": 144
+    },
+    {
+      "solution": -30361,
+      "ID": 145
+    },
+    {
+      "solution": -29615,
+      "ID": 146
+    },
+    {
+      "solution": 632,
+      "ID": 147
+    },
+    {
+      "solution": -33991,
+      "ID": 148
+    },
+    {
+      "solution": -6913,
+      "ID": 149
+    },
+    {
+      "solution": -49192,
+      "ID": 150
+    },
+    {
+      "solution": -19802,
+      "ID": 151
+    },
+    {
+      "solution": -43134,
+      "ID": 152
+    },
+    {
+      "solution": 7603,
+      "ID": 153
+    },
+    {
+      "solution": -48913,
+      "ID": 154
+    },
+    {
+      "solution": -5337,
+      "ID": 155
+    },
+    {
+      "solution": -56390,
+      "ID": 156
+    },
+    {
+      "solution": -67334,
+      "ID": 157
+    },
+    {
+      "solution": -10846,
+      "ID": 158
+    },
+    {
+      "solution": -41248,
+      "ID": 159
+    },
+    {
+      "solution": -20318,
+      "ID": 160
+    },
+    {
+      "solution": -25855,
+      "ID": 161
+    },
+    {
+      "solution": -62968,
+      "ID": 162
+    },
+    {
+      "solution": -51386,
+      "ID": 163
+    },
+    {
+      "solution": -57679,
+      "ID": 164
+    },
+    {
+      "solution": -42017,
+      "ID": 165
+    },
+    {
+      "solution": -11918,
+      "ID": 166
+    },
+    {
+      "solution": -64731,
+      "ID": 167
+    },
+    {
+      "solution": -15505,
+      "ID": 168
+    },
+    {
+      "solution": -12527,
+      "ID": 169
+    },
+    {
+      "solution": -52120,
+      "ID": 170
+    },
+    {
+      "solution": -27927,
+      "ID": 171
+    },
+    {
+      "solution": -53052,
+      "ID": 172
+    },
+    {
+      "solution": -4133,
+      "ID": 173
+    },
+    {
+      "solution": -8390,
+      "ID": 174
+    },
+    {
+      "solution": -39710,
+      "ID": 175
+    },
+    {
+      "solution": -44324,
+      "ID": 176
+    },
+    {
+      "solution": -33243,
+      "ID": 177
+    },
+    {
+      "solution": -17151,
+      "ID": 178
+    },
+    {
+      "solution": -18839,
+      "ID": 179
+    },
+    {
+      "solution": -15409,
+      "ID": 180
+    },
+    {
+      "solution": -31145,
+      "ID": 181
+    },
+    {
+      "solution": -47602,
+      "ID": 182
+    },
+    {
+      "solution": -23922,
+      "ID": 183
+    },
+    {
+      "solution": -42859,
+      "ID": 184
+    },
+    {
+      "solution": -52333,
+      "ID": 185
+    },
+    {
+      "solution": -37828,
+      "ID": 186
+    },
+    {
+      "solution": -628,
+      "ID": 187
+    },
+    {
+      "solution": -19731,
+      "ID": 188
+    },
+    {
+      "solution": -54665,
+      "ID": 189
+    },
+    {
+      "solution": -4606,
+      "ID": 190
+    },
+    {
+      "solution": -31737,
+      "ID": 191
+    },
+    {
+      "solution": -55406,
+      "ID": 192
+    },
+    {
+      "solution": -58526,
+      "ID": 193
+    },
+    {
+      "solution": -7285,
+      "ID": 194
+    },
+    {
+      "solution": -2360,
+      "ID": 195
+    },
+    {
+      "solution": -66945,
+      "ID": 196
+    },
+    {
+      "solution": -49762,
+      "ID": 197
+    },
+    {
+      "solution": -26037,
+      "ID": 198
+    },
+    {
+      "solution": -10743,
+      "ID": 199
+    },
+    {
+      "solution": -32289,
+      "ID": 200
+    },
+    {
+      "solution": -43538,
+      "ID": 201
+    },
+    {
+      "solution": -12528,
+      "ID": 202
+    },
+    {
+      "solution": -33588,
+      "ID": 203
+    },
+    {
+      "solution": -28491,
+      "ID": 204
+    },
+    {
+      "solution": 737,
+      "ID": 205
+    },
+    {
+      "solution": -10821,
+      "ID": 206
+    },
+    {
+      "solution": 4248,
+      "ID": 207
+    },
+    {
+      "solution": -39503,
+      "ID": 208
+    },
+    {
+      "solution": -54476,
+      "ID": 209
+    },
+    {
+      "solution": -35599,
+      "ID": 210
+    },
+    {
+      "solution": 1419,
+      "ID": 211
+    },
+    {
+      "solution": -25678,
+      "ID": 212
+    },
+    {
+      "solution": -26348,
+      "ID": 213
+    },
+    {
+      "solution": -32102,
+      "ID": 214
+    },
+    {
+      "solution": -26874,
+      "ID": 215
+    },
+    {
+      "solution": -29640,
+      "ID": 216
+    },
+    {
+      "solution": -25319,
+      "ID": 217
+    },
+    {
+      "solution": 4220,
+      "ID": 218
+    },
+    {
+      "solution": -26222,
+      "ID": 219
+    },
+    {
+      "solution": -48462,
+      "ID": 220
+    },
+    {
+      "solution": -11924,
+      "ID": 221
+    },
+    {
+      "solution": -53881,
+      "ID": 222
+    },
+    {
+      "solution": -19028,
+      "ID": 223
+    },
+    {
+      "solution": -32706,
+      "ID": 224
+    },
+    {
+      "solution": -25982,
+      "ID": 225
+    },
+    {
+      "solution": -9631,
+      "ID": 226
+    },
+    {
+      "solution": -44542,
+      "ID": 227
+    },
+    {
+      "solution": -51897,
+      "ID": 228
+    },
+    {
+      "solution": -39502,
+      "ID": 229
+    },
+    {
+      "solution": -39435,
+      "ID": 230
+    },
+    {
+      "solution": -73779,
+      "ID": 231
+    },
+    {
+      "solution": -36409,
+      "ID": 232
+    },
+    {
+      "solution": -59186,
+      "ID": 233
+    },
+    {
+      "solution": -54288,
+      "ID": 234
+    },
+    {
+      "solution": -11247,
+      "ID": 235
+    },
+    {
+      "solution": -29227,
+      "ID": 236
+    },
+    {
+      "solution": -30246,
+      "ID": 237
+    },
+    {
+      "solution": -55428,
+      "ID": 238
+    },
+    {
+      "solution": -43692,
+      "ID": 239
+    },
+    {
+      "solution": -56076,
+      "ID": 240
+    },
+    {
+      "solution": -44657,
+      "ID": 241
+    },
+    {
+      "solution": -54120,
+      "ID": 242
+    },
+    {
+      "solution": -74097,
+      "ID": 243
+    },
+    {
+      "solution": -75846,
+      "ID": 244
+    },
+    {
+      "solution": -45966,
+      "ID": 245
+    },
+    {
+      "solution": -8108,
+      "ID": 246
+    },
+    {
+      "solution": -12401,
+      "ID": 247
+    },
+    {
+      "solution": -37944,
+      "ID": 248
+    },
+    {
+      "solution": -61695,
+      "ID": 249
+    },
+    {
+      "solution": -19207,
+      "ID": 250
+    },
+    {
+      "solution": -68016,
+      "ID": 251
+    },
+    {
+      "solution": -64108,
+      "ID": 252
+    },
+    {
+      "solution": -59351,
+      "ID": 253
+    },
+    {
+      "solution": -19963,
+      "ID": 254
+    },
+    {
+      "solution": -56392,
+      "ID": 255
+    },
+    {
+      "solution": -37432,
+      "ID": 256
+    },
+    {
+      "solution": -18179,
+      "ID": 257
+    },
+    {
+      "solution": 1480,
+      "ID": 258
+    },
+    {
+      "solution": -64271,
+      "ID": 259
+    },
+    {
+      "solution": -14076,
+      "ID": 260
+    },
+    {
+      "solution": -38929,
+      "ID": 261
+    },
+    {
+      "solution": -51586,
+      "ID": 262
+    },
+    {
+      "solution": -23474,
+      "ID": 263
+    },
+    {
+      "solution": -12862,
+      "ID": 264
+    },
+    {
+      "solution": -18534,
+      "ID": 265
+    },
+    {
+      "solution": -8536,
+      "ID": 266
+    },
+    {
+      "solution": -55986,
+      "ID": 267
+    },
+    {
+      "solution": -56439,
+      "ID": 268
+    },
+    {
+      "solution": 5679,
+      "ID": 269
+    },
+    {
+      "solution": -34940,
+      "ID": 270
+    },
+    {
+      "solution": -30884,
+      "ID": 271
+    },
+    {
+      "solution": -24697,
+      "ID": 272
+    },
+    {
+      "solution": 5577,
+      "ID": 273
+    },
+    {
+      "solution": -67805,
+      "ID": 274
+    },
+    {
+      "solution": -17726,
+      "ID": 275
+    },
+    {
+      "solution": -24007,
+      "ID": 276
+    },
+    {
+      "solution": -66798,
+      "ID": 277
+    },
+    {
+      "solution": -12203,
+      "ID": 278
+    },
+    {
+      "solution": 2386,
+      "ID": 279
+    },
+    {
+      "solution": -9494,
+      "ID": 280
+    },
+    {
+      "solution": -44638,
+      "ID": 281
+    },
+    {
+      "solution": -55295,
+      "ID": 282
+    },
+    {
+      "solution": -23230,
+      "ID": 283
+    },
+    {
+      "solution": 1567,
+      "ID": 284
+    },
+    {
+      "solution": -46616,
+      "ID": 285
+    },
+    {
+      "solution": -1346,
+      "ID": 286
+    },
+    {
+      "solution": 447,
+      "ID": 287
+    },
+    {
+      "solution": -52111,
+      "ID": 288
+    },
+    {
+      "solution": -7119,
+      "ID": 289
+    },
+    {
+      "solution": -32329,
+      "ID": 290
+    },
+    {
+      "solution": -43914,
+      "ID": 291
+    },
+    {
+      "solution": -47219,
+      "ID": 292
+    },
+    {
+      "solution": -39830,
+      "ID": 293
+    },
+    {
+      "solution": -5019,
+      "ID": 294
+    },
+    {
+      "solution": -6694,
+      "ID": 295
+    },
+    {
+      "solution": -54360,
+      "ID": 296
+    },
+    {
+      "solution": -13298,
+      "ID": 297
+    },
+    {
+      "solution": -65379,
+      "ID": 298
+    },
+    {
+      "solution": -40848,
+      "ID": 299
+    },
+    {
+      "solution": -8058,
+      "ID": 300
+    },
+    {
+      "solution": -41251,
+      "ID": 301
+    },
+    {
+      "solution": -48481,
+      "ID": 302
+    },
+    {
+      "solution": -51998,
+      "ID": 303
+    },
+    {
+      "solution": -33765,
+      "ID": 304
+    },
+    {
+      "solution": -43451,
+      "ID": 305
+    },
+    {
+      "solution": -2986,
+      "ID": 306
+    },
+    {
+      "solution": -18365,
+      "ID": 307
+    },
+    {
+      "solution": 2942,
+      "ID": 308
+    },
+    {
+      "solution": -46172,
+      "ID": 309
+    },
+    {
+      "solution": -3452,
+      "ID": 310
+    },
+    {
+      "solution": 3951,
+      "ID": 311
+    },
+    {
+      "solution": -280,
+      "ID": 312
+    },
+    {
+      "solution": -32031,
+      "ID": 313
+    },
+    {
+      "solution": -55091,
+      "ID": 314
+    },
+    {
+      "solution": -32293,
+      "ID": 315
+    },
+    {
+      "solution": 251,
+      "ID": 316
+    },
+    {
+      "solution": -40564,
+      "ID": 317
+    },
+    {
+      "solution": -47610,
+      "ID": 318
+    },
+    {
+      "solution": -47475,
+      "ID": 319
+    },
+    {
+      "solution": -27542,
+      "ID": 320
+    },
+    {
+      "solution": -9090,
+      "ID": 321
+    },
+    {
+      "solution": -62152,
+      "ID": 322
+    },
+    {
+      "solution": -62312,
+      "ID": 323
+    },
+    {
+      "solution": -36886,
+      "ID": 324
+    },
+    {
+      "solution": -50917,
+      "ID": 325
+    },
+    {
+      "solution": -21614,
+      "ID": 326
+    },
+    {
+      "solution": -15740,
+      "ID": 327
+    },
+    {
+      "solution": 701,
+      "ID": 328
+    },
+    {
+      "solution": -16190,
+      "ID": 329
+    },
+    {
+      "solution": -57772,
+      "ID": 330
+    },
+    {
+      "solution": -32269,
+      "ID": 331
+    },
+    {
+      "solution": -32055,
+      "ID": 332
+    },
+    {
+      "solution": 842,
+      "ID": 333
+    },
+    {
+      "solution": -36996,
+      "ID": 334
+    },
+    {
+      "solution": -17331,
+      "ID": 335
+    },
+    {
+      "solution": -66278,
+      "ID": 336
+    },
+    {
+      "solution": -66585,
+      "ID": 337
+    },
+    {
+      "solution": -44708,
+      "ID": 338
+    },
+    {
+      "solution": -4303,
+      "ID": 339
+    },
+    {
+      "solution": -14214,
+      "ID": 340
+    },
+    {
+      "solution": -59957,
+      "ID": 341
+    },
+    {
+      "solution": -64465,
+      "ID": 342
+    },
+    {
+      "solution": -50155,
+      "ID": 343
+    },
+    {
+      "solution": -72409,
+      "ID": 344
+    },
+    {
+      "solution": -39469,
+      "ID": 345
+    },
+    {
+      "solution": -12748,
+      "ID": 346
+    },
+    {
+      "solution": -56864,
+      "ID": 347
+    },
+    {
+      "solution": -21318,
+      "ID": 348
+    },
+    {
+      "solution": -3666,
+      "ID": 349
+    },
+    {
+      "solution": -66596,
+      "ID": 350
+    },
+    {
+      "solution": -74448,
+      "ID": 351
+    },
+    {
+      "solution": -7790,
+      "ID": 352
+    },
+    {
+      "solution": -29339,
+      "ID": 353
+    },
+    {
+      "solution": -31491,
+      "ID": 354
+    },
+    {
+      "solution": -66738,
+      "ID": 355
+    },
+    {
+      "solution": -65821,
+      "ID": 356
+    },
+    {
+      "solution": -67762,
+      "ID": 357
+    },
+    {
+      "solution": -31761,
+      "ID": 358
+    },
+    {
+      "solution": -27905,
+      "ID": 359
+    },
+    {
+      "solution": -27885,
+      "ID": 360
+    },
+    {
+      "solution": 3976,
+      "ID": 361
+    },
+    {
+      "solution": -45907,
+      "ID": 362
+    },
+    {
+      "solution": -68729,
+      "ID": 363
+    },
+    {
+      "solution": -42008,
+      "ID": 364
+    },
+    {
+      "solution": -8976,
+      "ID": 365
+    },
+    {
+      "solution": -34947,
+      "ID": 366
+    },
+    {
+      "solution": -49786,
+      "ID": 367
+    },
+    {
+      "solution": -16878,
+      "ID": 368
+    },
+    {
+      "solution": -802,
+      "ID": 369
+    },
+    {
+      "solution": -34875,
+      "ID": 370
+    },
+    {
+      "solution": -6820,
+      "ID": 371
+    },
+    {
+      "solution": -1605,
+      "ID": 372
+    },
+    {
+      "solution": -4735,
+      "ID": 373
+    },
+    {
+      "solution": -18211,
+      "ID": 374
+    },
+    {
+      "solution": -8938,
+      "ID": 375
+    },
+    {
+      "solution": -36108,
+      "ID": 376
+    },
+    {
+      "solution": 8427,
+      "ID": 377
+    },
+    {
+      "solution": -24179,
+      "ID": 378
+    },
+    {
+      "solution": -9992,
+      "ID": 379
+    },
+    {
+      "solution": -10445,
+      "ID": 380
+    },
+    {
+      "solution": -26165,
+      "ID": 381
+    },
+    {
+      "solution": -7502,
+      "ID": 382
+    },
+    {
+      "solution": -11594,
+      "ID": 383
+    },
+    {
+      "solution": -45857,
+      "ID": 384
+    },
+    {
+      "solution": -62949,
+      "ID": 385
+    },
+    {
+      "solution": -77047,
+      "ID": 386
+    },
+    {
+      "solution": -30737,
+      "ID": 387
+    },
+    {
+      "solution": -43057,
+      "ID": 388
+    },
+    {
+      "solution": -51029,
+      "ID": 389
+    },
+    {
+      "solution": -4966,
+      "ID": 390
+    },
+    {
+      "solution": -22488,
+      "ID": 391
+    },
+    {
+      "solution": -58580,
+      "ID": 392
+    },
+    {
+      "solution": -43995,
+      "ID": 393
+    },
+    {
+      "solution": -61940,
+      "ID": 394
+    },
+    {
+      "solution": -22091,
+      "ID": 395
+    },
+    {
+      "solution": -19099,
+      "ID": 396
+    },
+    {
+      "solution": -38738,
+      "ID": 397
+    },
+    {
+      "solution": -2317,
+      "ID": 398
+    },
+    {
+      "solution": -71154,
+      "ID": 399
+    },
+    {
+      "solution": -17372,
+      "ID": 400
+    },
+    {
+      "solution": -52156,
+      "ID": 401
+    },
+    {
+      "solution": -59177,
+      "ID": 402
+    },
+    {
+      "solution": -10142,
+      "ID": 403
+    },
+    {
+      "solution": -46122,
+      "ID": 404
+    },
+    {
+      "solution": -20355,
+      "ID": 405
+    },
+    {
+      "solution": -21324,
+      "ID": 406
+    },
+    {
+      "solution": -13101,
+      "ID": 407
+    },
+    {
+      "solution": -22656,
+      "ID": 408
+    },
+    {
+      "solution": -48860,
+      "ID": 409
+    },
+    {
+      "solution": -63978,
+      "ID": 410
+    },
+    {
+      "solution": -17173,
+      "ID": 411
+    },
+    {
+      "solution": -61165,
+      "ID": 412
+    },
+    {
+      "solution": -55350,
+      "ID": 413
+    },
+    {
+      "solution": -50188,
+      "ID": 414
+    },
+    {
+      "solution": 911,
+      "ID": 415
+    },
+    {
+      "solution": -1782,
+      "ID": 416
+    },
+    {
+      "solution": -5402,
+      "ID": 417
+    },
+    {
+      "solution": -19162,
+      "ID": 418
+    },
+    {
+      "solution": -25455,
+      "ID": 419
+    },
+    {
+      "solution": -23697,
+      "ID": 420
+    },
+    {
+      "solution": -52755,
+      "ID": 421
+    },
+    {
+      "solution": -73605,
+      "ID": 422
+    },
+    {
+      "solution": -59171,
+      "ID": 423
+    },
+    {
+      "solution": -14551,
+      "ID": 424
+    },
+    {
+      "solution": -42043,
+      "ID": 425
+    },
+    {
+      "solution": -21288,
+      "ID": 426
+    },
+    {
+      "solution": -37957,
+      "ID": 427
+    },
+    {
+      "solution": -2903,
+      "ID": 428
+    },
+    {
+      "solution": -4078,
+      "ID": 429
+    },
+    {
+      "solution": -43298,
+      "ID": 430
+    },
+    {
+      "solution": -2278,
+      "ID": 431
+    },
+    {
+      "solution": -43104,
+      "ID": 432
+    },
+    {
+      "solution": -5555,
+      "ID": 433
+    },
+    {
+      "solution": -3118,
+      "ID": 434
+    },
+    {
+      "solution": -19968,
+      "ID": 435
+    },
+    {
+      "solution": -33249,
+      "ID": 436
+    },
+    {
+      "solution": -41255,
+      "ID": 437
+    },
+    {
+      "solution": -70347,
+      "ID": 438
+    },
+    {
+      "solution": -39111,
+      "ID": 439
+    },
+    {
+      "solution": -29978,
+      "ID": 440
+    },
+    {
+      "solution": -19049,
+      "ID": 441
+    },
+    {
+      "solution": -70294,
+      "ID": 442
+    },
+    {
+      "solution": -25358,
+      "ID": 443
+    },
+    {
+      "solution": -58951,
+      "ID": 444
+    },
+    {
+      "solution": -50497,
+      "ID": 445
+    },
+    {
+      "solution": -23610,
+      "ID": 446
+    },
+    {
+      "solution": -42995,
+      "ID": 447
+    },
+    {
+      "solution": -29014,
+      "ID": 448
+    },
+    {
+      "solution": -20840,
+      "ID": 449
+    },
+    {
+      "solution": -45549,
+      "ID": 450
+    },
+    {
+      "solution": -31416,
+      "ID": 451
+    },
+    {
+      "solution": -19183,
+      "ID": 452
+    },
+    {
+      "solution": -53961,
+      "ID": 453
+    },
+    {
+      "solution": -18646,
+      "ID": 454
+    },
+    {
+      "solution": -20861,
+      "ID": 455
+    },
+    {
+      "solution": -19022,
+      "ID": 456
+    },
+    {
+      "solution": -51690,
+      "ID": 457
+    },
+    {
+      "solution": -50082,
+      "ID": 458
+    },
+    {
+      "solution": -46018,
+      "ID": 459
+    },
+    {
+      "solution": -19328,
+      "ID": 460
+    },
+    {
+      "solution": -36574,
+      "ID": 461
+    },
+    {
+      "solution": -14323,
+      "ID": 462
+    },
+    {
+      "solution": -47659,
+      "ID": 463
+    },
+    {
+      "solution": -21838,
+      "ID": 464
+    },
+    {
+      "solution": -9706,
+      "ID": 465
+    },
+    {
+      "solution": -27593,
+      "ID": 466
+    },
+    {
+      "solution": -22231,
+      "ID": 467
+    },
+    {
+      "solution": -930,
+      "ID": 468
+    },
+    {
+      "solution": 7256,
+      "ID": 469
+    },
+    {
+      "solution": 335,
+      "ID": 470
+    },
+    {
+      "solution": -30065,
+      "ID": 471
+    },
+    {
+      "solution": -35416,
+      "ID": 472
+    },
+    {
+      "solution": -26732,
+      "ID": 473
+    },
+    {
+      "solution": -39202,
+      "ID": 474
+    },
+    {
+      "solution": -43486,
+      "ID": 475
+    },
+    {
+      "solution": -65975,
+      "ID": 476
+    },
+    {
+      "solution": -119,
+      "ID": 477
+    },
+    {
+      "solution": -44786,
+      "ID": 478
+    },
+    {
+      "solution": -48660,
+      "ID": 479
+    },
+    {
+      "solution": -33864,
+      "ID": 480
+    },
+    {
+      "solution": -48674,
+      "ID": 481
+    },
+    {
+      "solution": -40897,
+      "ID": 482
+    },
+    {
+      "solution": -57586,
+      "ID": 483
+    },
+    {
+      "solution": -44577,
+      "ID": 484
+    },
+    {
+      "solution": -37651,
+      "ID": 485
+    },
+    {
+      "solution": -71630,
+      "ID": 486
+    },
+    {
+      "solution": -29965,
+      "ID": 487
+    },
+    {
+      "solution": -61345,
+      "ID": 488
+    },
+    {
+      "solution": -65881,
+      "ID": 489
+    },
+    {
+      "solution": -41437,
+      "ID": 490
+    },
+    {
+      "solution": -54402,
+      "ID": 491
+    },
+    {
+      "solution": 1664,
+      "ID": 492
+    },
+    {
+      "solution": -30398,
+      "ID": 493
+    },
+    {
+      "solution": -19526,
+      "ID": 494
+    },
+    {
+      "solution": -40223,
+      "ID": 495
+    },
+    {
+      "solution": -15300,
+      "ID": 496
+    },
+    {
+      "solution": -53226,
+      "ID": 497
+    },
+    {
+      "solution": -54398,
+      "ID": 498
+    },
+    {
+      "solution": -39255,
+      "ID": 499
+    },
+    {
+      "solution": -24133,
+      "ID": 500
+    },
+    {
+      "solution": -39660,
+      "ID": 501
+    },
+    {
+      "solution": -47766,
+      "ID": 502
+    },
+    {
+      "solution": -42118,
+      "ID": 503
+    },
+    {
+      "solution": -68307,
+      "ID": 504
+    },
+    {
+      "solution": -14376,
+      "ID": 505
+    },
+    {
+      "solution": -23075,
+      "ID": 506
+    },
+    {
+      "solution": -38383,
+      "ID": 507
+    },
+    {
+      "solution": -5342,
+      "ID": 508
+    },
+    {
+      "solution": -55074,
+      "ID": 509
+    },
+    {
+      "solution": -35561,
+      "ID": 510
+    },
+    {
+      "solution": -42736,
+      "ID": 511
+    },
+    {
+      "solution": -16453,
+      "ID": 512
+    },
+    {
+      "solution": -1804,
+      "ID": 513
+    },
+    {
+      "solution": -40804,
+      "ID": 514
+    },
+    {
+      "solution": -26010,
+      "ID": 515
+    },
+    {
+      "solution": -39949,
+      "ID": 516
+    },
+    {
+      "solution": -7879,
+      "ID": 517
+    },
+    {
+      "solution": -67678,
+      "ID": 518
+    },
+    {
+      "solution": -34996,
+      "ID": 519
+    },
+    {
+      "solution": -43029,
+      "ID": 520
+    },
+    {
+      "solution": -25770,
+      "ID": 521
+    },
+    {
+      "solution": -32241,
+      "ID": 522
+    },
+    {
+      "solution": -51157,
+      "ID": 523
+    },
+    {
+      "solution": -39592,
+      "ID": 524
+    },
+    {
+      "solution": -70057,
+      "ID": 525
+    },
+    {
+      "solution": -24725,
+      "ID": 526
+    },
+    {
+      "solution": -106,
+      "ID": 527
+    },
+    {
+      "solution": -10663,
+      "ID": 528
+    },
+    {
+      "solution": -55846,
+      "ID": 529
+    },
+    {
+      "solution": -56879,
+      "ID": 530
+    },
+    {
+      "solution": -50295,
+      "ID": 531
+    },
+    {
+      "solution": 4205,
+      "ID": 532
+    },
+    {
+      "solution": -5385,
+      "ID": 533
+    },
+    {
+      "solution": -67642,
+      "ID": 534
+    },
+    {
+      "solution": -31851,
+      "ID": 535
+    },
+    {
+      "solution": -48461,
+      "ID": 536
+    },
+    {
+      "solution": -37535,
+      "ID": 537
+    },
+    {
+      "solution": -49504,
+      "ID": 538
+    },
+    {
+      "solution": -51903,
+      "ID": 539
+    },
+    {
+      "solution": -21406,
+      "ID": 540
+    },
+    {
+      "solution": -30294,
+      "ID": 541
+    },
+    {
+      "solution": -66405,
+      "ID": 542
+    },
+    {
+      "solution": -4588,
+      "ID": 543
+    },
+    {
+      "solution": -52286,
+      "ID": 544
+    },
+    {
+      "solution": -53839,
+      "ID": 545
+    },
+    {
+      "solution": -9842,
+      "ID": 546
+    },
+    {
+      "solution": -52888,
+      "ID": 547
+    },
+    {
+      "solution": -25090,
+      "ID": 548
+    },
+    {
+      "solution": -46105,
+      "ID": 549
+    },
+    {
+      "solution": -9185,
+      "ID": 550
+    },
+    {
+      "solution": -38196,
+      "ID": 551
+    },
+    {
+      "solution": -40285,
+      "ID": 552
+    },
+    {
+      "solution": -64523,
+      "ID": 553
+    },
+    {
+      "solution": -61418,
+      "ID": 554
+    },
+    {
+      "solution": -39220,
+      "ID": 555
+    },
+    {
+      "solution": -20115,
+      "ID": 556
+    },
+    {
+      "solution": 10640,
+      "ID": 557
+    },
+    {
+      "solution": -30384,
+      "ID": 558
+    },
+    {
+      "solution": -27421,
+      "ID": 559
+    },
+    {
+      "solution": -36768,
+      "ID": 560
+    },
+    {
+      "solution": -62218,
+      "ID": 561
+    },
+    {
+      "solution": -65001,
+      "ID": 562
+    },
+    {
+      "solution": -69355,
+      "ID": 563
+    },
+    {
+      "solution": -26990,
+      "ID": 564
+    },
+    {
+      "solution": -8544,
+      "ID": 565
+    },
+    {
+      "solution": -65561,
+      "ID": 566
+    },
+    {
+      "solution": -30277,
+      "ID": 567
+    },
+    {
+      "solution": -10587,
+      "ID": 568
+    },
+    {
+      "solution": -1466,
+      "ID": 569
+    },
+    {
+      "solution": -59198,
+      "ID": 570
+    },
+    {
+      "solution": -3503,
+      "ID": 571
+    },
+    {
+      "solution": -61050,
+      "ID": 572
+    },
+    {
+      "solution": -720,
+      "ID": 573
+    },
+    {
+      "solution": -8381,
+      "ID": 574
+    },
+    {
+      "solution": -20281,
+      "ID": 575
+    },
+    {
+      "solution": -7035,
+      "ID": 576
+    },
+    {
+      "solution": -32664,
+      "ID": 577
+    },
+    {
+      "solution": -38052,
+      "ID": 578
+    },
+    {
+      "solution": -33893,
+      "ID": 579
+    },
+    {
+      "solution": -65059,
+      "ID": 580
+    },
+    {
+      "solution": -39664,
+      "ID": 581
+    },
+    {
+      "solution": -18124,
+      "ID": 582
+    },
+    {
+      "solution": -23392,
+      "ID": 583
+    },
+    {
+      "solution": 11156,
+      "ID": 584
+    },
+    {
+      "solution": -69288,
+      "ID": 585
+    },
+    {
+      "solution": -45311,
+      "ID": 586
+    },
+    {
+      "solution": -46825,
+      "ID": 587
+    },
+    {
+      "solution": -29499,
+      "ID": 588
+    },
+    {
+      "solution": -52064,
+      "ID": 589
+    },
+    {
+      "solution": -61413,
+      "ID": 590
+    },
+    {
+      "solution": -21506,
+      "ID": 591
+    },
+    {
+      "solution": -58675,
+      "ID": 592
+    },
+    {
+      "solution": -50833,
+      "ID": 593
+    },
+    {
+      "solution": -48244,
+      "ID": 594
+    },
+    {
+      "solution": -25169,
+      "ID": 595
+    },
+    {
+      "solution": -47088,
+      "ID": 596
+    },
+    {
+      "solution": -11324,
+      "ID": 597
+    },
+    {
+      "solution": -25582,
+      "ID": 598
+    },
+    {
+      "solution": -61173,
+      "ID": 599
+    },
+    {
+      "solution": -42563,
+      "ID": 600
+    },
+    {
+      "solution": -20371,
+      "ID": 601
+    },
+    {
+      "solution": -25237,
+      "ID": 602
+    },
+    {
+      "solution": 8329,
+      "ID": 603
+    },
+    {
+      "solution": -72865,
+      "ID": 604
+    },
+    {
+      "solution": -54719,
+      "ID": 605
+    },
+    {
+      "solution": -14886,
+      "ID": 606
+    },
+    {
+      "solution": -2444,
+      "ID": 607
+    },
+    {
+      "solution": -38421,
+      "ID": 608
+    },
+    {
+      "solution": -49239,
+      "ID": 609
+    },
+    {
+      "solution": -69447,
+      "ID": 610
+    },
+    {
+      "solution": -38943,
+      "ID": 611
+    },
+    {
+      "solution": -20306,
+      "ID": 612
+    },
+    {
+      "solution": -52549,
+      "ID": 613
+    },
+    {
+      "solution": -29862,
+      "ID": 614
+    },
+    {
+      "solution": -55337,
+      "ID": 615
+    },
+    {
+      "solution": -29867,
+      "ID": 616
+    },
+    {
+      "solution": -45159,
+      "ID": 617
+    },
+    {
+      "solution": -8878,
+      "ID": 618
+    },
+    {
+      "solution": -18606,
+      "ID": 619
+    },
+    {
+      "solution": -6515,
+      "ID": 620
+    },
+    {
+      "solution": -8243,
+      "ID": 621
+    },
+    {
+      "solution": -3621,
+      "ID": 622
+    },
+    {
+      "solution": -29500,
+      "ID": 623
+    },
+    {
+      "solution": -18812,
+      "ID": 624
+    },
+    {
+      "solution": -20252,
+      "ID": 625
+    },
+    {
+      "solution": -28356,
+      "ID": 626
+    },
+    {
+      "solution": -44607,
+      "ID": 627
+    },
+    {
+      "solution": -59931,
+      "ID": 628
+    },
+    {
+      "solution": -41919,
+      "ID": 629
+    },
+    {
+      "solution": -60912,
+      "ID": 630
+    },
+    {
+      "solution": 11242,
+      "ID": 631
+    },
+    {
+      "solution": -55292,
+      "ID": 632
+    },
+    {
+      "solution": -11525,
+      "ID": 633
+    },
+    {
+      "solution": -24119,
+      "ID": 634
+    },
+    {
+      "solution": -37523,
+      "ID": 635
+    },
+    {
+      "solution": -70831,
+      "ID": 636
+    },
+    {
+      "solution": -7001,
+      "ID": 637
+    },
+    {
+      "solution": -12524,
+      "ID": 638
+    },
+    {
+      "solution": -10550,
+      "ID": 639
+    },
+    {
+      "solution": -28612,
+      "ID": 640
+    },
+    {
+      "solution": -59264,
+      "ID": 641
+    },
+    {
+      "solution": -66053,
+      "ID": 642
+    },
+    {
+      "solution": -36365,
+      "ID": 643
+    },
+    {
+      "solution": -13771,
+      "ID": 644
+    },
+    {
+      "solution": -17807,
+      "ID": 645
+    },
+    {
+      "solution": -42660,
+      "ID": 646
+    },
+    {
+      "solution": -58907,
+      "ID": 647
+    },
+    {
+      "solution": -63431,
+      "ID": 648
+    },
+    {
+      "solution": -42865,
+      "ID": 649
+    },
+    {
+      "solution": -21202,
+      "ID": 650
+    },
+    {
+      "solution": -65079,
+      "ID": 651
+    },
+    {
+      "solution": -46066,
+      "ID": 652
+    },
+    {
+      "solution": -16311,
+      "ID": 653
+    },
+    {
+      "solution": -61795,
+      "ID": 654
+    },
+    {
+      "solution": -2982,
+      "ID": 655
+    },
+    {
+      "solution": -63962,
+      "ID": 656
+    },
+    {
+      "solution": -25741,
+      "ID": 657
+    },
+    {
+      "solution": -12355,
+      "ID": 658
+    },
+    {
+      "solution": -11191,
+      "ID": 659
+    },
+    {
+      "solution": -24809,
+      "ID": 660
+    },
+    {
+      "solution": -4859,
+      "ID": 661
+    },
+    {
+      "solution": -69409,
+      "ID": 662
+    },
+    {
+      "solution": -40119,
+      "ID": 663
+    },
+    {
+      "solution": -39503,
+      "ID": 664
+    },
+    {
+      "solution": -59574,
+      "ID": 665
+    },
+    {
+      "solution": -14515,
+      "ID": 666
+    },
+    {
+      "solution": -35984,
+      "ID": 667
+    },
+    {
+      "solution": -25949,
+      "ID": 668
+    },
+    {
+      "solution": -19908,
+      "ID": 669
+    },
+    {
+      "solution": -48048,
+      "ID": 670
+    },
+    {
+      "solution": -76918,
+      "ID": 671
+    },
+    {
+      "solution": -5432,
+      "ID": 672
+    },
+    {
+      "solution": -67416,
+      "ID": 673
+    },
+    {
+      "solution": -51275,
+      "ID": 674
+    },
+    {
+      "solution": -32514,
+      "ID": 675
+    },
+    {
+      "solution": -23026,
+      "ID": 676
+    },
+    {
+      "solution": -32713,
+      "ID": 677
+    },
+    {
+      "solution": -20699,
+      "ID": 678
+    },
+    {
+      "solution": -38123,
+      "ID": 679
+    },
+    {
+      "solution": -19188,
+      "ID": 680
+    },
+    {
+      "solution": -38105,
+      "ID": 681
+    },
+    {
+      "solution": -12623,
+      "ID": 682
+    },
+    {
+      "solution": -49367,
+      "ID": 683
+    },
+    {
+      "solution": -58358,
+      "ID": 684
+    },
+    {
+      "solution": -47554,
+      "ID": 685
+    },
+    {
+      "solution": -11003,
+      "ID": 686
+    },
+    {
+      "solution": -37512,
+      "ID": 687
+    },
+    {
+      "solution": -5069,
+      "ID": 688
+    },
+    {
+      "solution": -39005,
+      "ID": 689
+    },
+    {
+      "solution": -34404,
+      "ID": 690
+    },
+    {
+      "solution": -48693,
+      "ID": 691
+    },
+    {
+      "solution": -36048,
+      "ID": 692
+    },
+    {
+      "solution": -63725,
+      "ID": 693
+    },
+    {
+      "solution": -51027,
+      "ID": 694
+    },
+    {
+      "solution": -55902,
+      "ID": 695
+    },
+    {
+      "solution": -37262,
+      "ID": 696
+    },
+    {
+      "solution": 13535,
+      "ID": 697
+    },
+    {
+      "solution": -59584,
+      "ID": 698
+    },
+    {
+      "solution": -58646,
+      "ID": 699
+    },
+    {
+      "solution": -2922,
+      "ID": 700
+    },
+    {
+      "solution": -32714,
+      "ID": 701
+    },
+    {
+      "solution": -56700,
+      "ID": 702
+    },
+    {
+      "solution": -38944,
+      "ID": 703
+    },
+    {
+      "solution": -61268,
+      "ID": 704
+    },
+    {
+      "solution": -55660,
+      "ID": 705
+    },
+    {
+      "solution": -14590,
+      "ID": 706
+    },
+    {
+      "solution": -63339,
+      "ID": 707
+    },
+    {
+      "solution": -23430,
+      "ID": 708
+    },
+    {
+      "solution": -38974,
+      "ID": 709
+    },
+    {
+      "solution": -63921,
+      "ID": 710
+    },
+    {
+      "solution": -11852,
+      "ID": 711
+    },
+    {
+      "solution": -36952,
+      "ID": 712
+    },
+    {
+      "solution": -28950,
+      "ID": 713
+    },
+    {
+      "solution": -32018,
+      "ID": 714
+    },
+    {
+      "solution": -46520,
+      "ID": 715
+    },
+    {
+      "solution": -54095,
+      "ID": 716
+    },
+    {
+      "solution": -33249,
+      "ID": 717
+    },
+    {
+      "solution": -60898,
+      "ID": 718
+    },
+    {
+      "solution": -25538,
+      "ID": 719
+    },
+    {
+      "solution": -52670,
+      "ID": 720
+    },
+    {
+      "solution": -41362,
+      "ID": 721
+    },
+    {
+      "solution": -73641,
+      "ID": 722
+    },
+    {
+      "solution": -14803,
+      "ID": 723
+    },
+    {
+      "solution": -52062,
+      "ID": 724
+    },
+    {
+      "solution": -11382,
+      "ID": 725
+    },
+    {
+      "solution": -18015,
+      "ID": 726
+    },
+    {
+      "solution": -51962,
+      "ID": 727
+    },
+    {
+      "solution": -14258,
+      "ID": 728
+    },
+    {
+      "solution": 5165,
+      "ID": 729
+    },
+    {
+      "solution": -6656,
+      "ID": 730
+    },
+    {
+      "solution": -29611,
+      "ID": 731
+    },
+    {
+      "solution": -44856,
+      "ID": 732
+    },
+    {
+      "solution": -48697,
+      "ID": 733
+    },
+    {
+      "solution": -11663,
+      "ID": 734
+    },
+    {
+      "solution": -43713,
+      "ID": 735
+    },
+    {
+      "solution": -52289,
+      "ID": 736
+    },
+    {
+      "solution": -8860,
+      "ID": 737
+    },
+    {
+      "solution": -132,
+      "ID": 738
+    },
+    {
+      "solution": -51368,
+      "ID": 739
+    },
+    {
+      "solution": -51093,
+      "ID": 740
+    },
+    {
+      "solution": -10549,
+      "ID": 741
+    },
+    {
+      "solution": -67082,
+      "ID": 742
+    },
+    {
+      "solution": -60690,
+      "ID": 743
+    },
+    {
+      "solution": -63888,
+      "ID": 744
+    },
+    {
+      "solution": -15233,
+      "ID": 745
+    },
+    {
+      "solution": -80627,
+      "ID": 746
+    },
+    {
+      "solution": -66484,
+      "ID": 747
+    },
+    {
+      "solution": -17838,
+      "ID": 748
+    },
+    {
+      "solution": -49601,
+      "ID": 749
+    },
+    {
+      "solution": -25784,
+      "ID": 750
+    },
+    {
+      "solution": -40168,
+      "ID": 751
+    },
+    {
+      "solution": -57886,
+      "ID": 752
+    },
+    {
+      "solution": 7082,
+      "ID": 753
+    },
+    {
+      "solution": 3459,
+      "ID": 754
+    },
+    {
+      "solution": 764,
+      "ID": 755
+    },
+    {
+      "solution": -48988,
+      "ID": 756
+    },
+    {
+      "solution": -8596,
+      "ID": 757
+    },
+    {
+      "solution": -24836,
+      "ID": 758
+    },
+    {
+      "solution": -58295,
+      "ID": 759
+    },
+    {
+      "solution": -13440,
+      "ID": 760
+    },
+    {
+      "solution": -29609,
+      "ID": 761
+    },
+    {
+      "solution": -11858,
+      "ID": 762
+    },
+    {
+      "solution": -51090,
+      "ID": 763
+    },
+    {
+      "solution": -23816,
+      "ID": 764
+    },
+    {
+      "solution": -54378,
+      "ID": 765
+    },
+    {
+      "solution": -67647,
+      "ID": 766
+    },
+    {
+      "solution": -18433,
+      "ID": 767
+    },
+    {
+      "solution": -25172,
+      "ID": 768
+    },
+    {
+      "solution": 6375,
+      "ID": 769
+    },
+    {
+      "solution": -26409,
+      "ID": 770
+    },
+    {
+      "solution": -55431,
+      "ID": 771
+    },
+    {
+      "solution": -66599,
+      "ID": 772
+    },
+    {
+      "solution": -13323,
+      "ID": 773
+    },
+    {
+      "solution": -68562,
+      "ID": 774
+    },
+    {
+      "solution": -67128,
+      "ID": 775
+    },
+    {
+      "solution": -32039,
+      "ID": 776
+    },
+    {
+      "solution": -43584,
+      "ID": 777
+    },
+    {
+      "solution": -37765,
+      "ID": 778
+    },
+    {
+      "solution": -36688,
+      "ID": 779
+    },
+    {
+      "solution": -71741,
+      "ID": 780
+    },
+    {
+      "solution": -30464,
+      "ID": 781
+    },
+    {
+      "solution": 5307,
+      "ID": 782
+    },
+    {
+      "solution": -56371,
+      "ID": 783
+    },
+    {
+      "solution": -51241,
+      "ID": 784
+    },
+    {
+      "solution": -36660,
+      "ID": 785
+    },
+    {
+      "solution": -9451,
+      "ID": 786
+    },
+    {
+      "solution": -17675,
+      "ID": 787
+    },
+    {
+      "solution": -62432,
+      "ID": 788
+    },
+    {
+      "solution": -7396,
+      "ID": 789
+    },
+    {
+      "solution": -7956,
+      "ID": 790
+    },
+    {
+      "solution": -47524,
+      "ID": 791
+    },
+    {
+      "solution": -66336,
+      "ID": 792
+    },
+    {
+      "solution": -29009,
+      "ID": 793
+    },
+    {
+      "solution": -66217,
+      "ID": 794
+    },
+    {
+      "solution": -64385,
+      "ID": 795
+    },
+    {
+      "solution": -5584,
+      "ID": 796
+    },
+    {
+      "solution": -36638,
+      "ID": 797
+    },
+    {
+      "solution": -8503,
+      "ID": 798
+    },
+    {
+      "solution": -7926,
+      "ID": 799
+    },
+    {
+      "solution": -44437,
+      "ID": 800
+    },
+    {
+      "solution": -45130,
+      "ID": 801
+    },
+    {
+      "solution": -16623,
+      "ID": 802
+    },
+    {
+      "solution": -1426,
+      "ID": 803
+    },
+    {
+      "solution": -48067,
+      "ID": 804
+    },
+    {
+      "solution": -8076,
+      "ID": 805
+    },
+    {
+      "solution": 4944,
+      "ID": 806
+    },
+    {
+      "solution": -17870,
+      "ID": 807
+    },
+    {
+      "solution": -50648,
+      "ID": 808
+    },
+    {
+      "solution": -49487,
+      "ID": 809
+    },
+    {
+      "solution": -702,
+      "ID": 810
+    },
+    {
+      "solution": -27547,
+      "ID": 811
+    },
+    {
+      "solution": -7192,
+      "ID": 812
+    },
+    {
+      "solution": -53795,
+      "ID": 813
+    },
+    {
+      "solution": -315,
+      "ID": 814
+    },
+    {
+      "solution": -21153,
+      "ID": 815
+    },
+    {
+      "solution": 2985,
+      "ID": 816
+    },
+    {
+      "solution": -16407,
+      "ID": 817
+    },
+    {
+      "solution": -45424,
+      "ID": 818
+    },
+    {
+      "solution": -19774,
+      "ID": 819
+    },
+    {
+      "solution": -3515,
+      "ID": 820
+    },
+    {
+      "solution": -59967,
+      "ID": 821
+    },
+    {
+      "solution": 1058,
+      "ID": 822
+    },
+    {
+      "solution": -27131,
+      "ID": 823
+    },
+    {
+      "solution": -25933,
+      "ID": 824
+    },
+    {
+      "solution": -36122,
+      "ID": 825
+    },
+    {
+      "solution": -65933,
+      "ID": 826
+    },
+    {
+      "solution": -33992,
+      "ID": 827
+    },
+    {
+      "solution": -33988,
+      "ID": 828
+    },
+    {
+      "solution": 1996,
+      "ID": 829
+    },
+    {
+      "solution": -59959,
+      "ID": 830
+    },
+    {
+      "solution": -69429,
+      "ID": 831
+    },
+    {
+      "solution": -51516,
+      "ID": 832
+    },
+    {
+      "solution": -1901,
+      "ID": 833
+    },
+    {
+      "solution": -39613,
+      "ID": 834
+    },
+    {
+      "solution": -20296,
+      "ID": 835
+    },
+    {
+      "solution": -14783,
+      "ID": 836
+    },
+    {
+      "solution": -36917,
+      "ID": 837
+    },
+    {
+      "solution": -51744,
+      "ID": 838
+    },
+    {
+      "solution": -54612,
+      "ID": 839
+    },
+    {
+      "solution": -15961,
+      "ID": 840
+    },
+    {
+      "solution": -36990,
+      "ID": 841
+    },
+    {
+      "solution": -2915,
+      "ID": 842
+    },
+    {
+      "solution": -7074,
+      "ID": 843
+    },
+    {
+      "solution": -68205,
+      "ID": 844
+    },
+    {
+      "solution": -17656,
+      "ID": 845
+    },
+    {
+      "solution": -21216,
+      "ID": 846
+    },
+    {
+      "solution": -31445,
+      "ID": 847
+    },
+    {
+      "solution": -21369,
+      "ID": 848
+    },
+    {
+      "solution": -56474,
+      "ID": 849
+    },
+    {
+      "solution": -38884,
+      "ID": 850
+    },
+    {
+      "solution": -79085,
+      "ID": 851
+    },
+    {
+      "solution": -31551,
+      "ID": 852
+    },
+    {
+      "solution": -27126,
+      "ID": 853
+    },
+    {
+      "solution": -30628,
+      "ID": 854
+    },
+    {
+      "solution": -52416,
+      "ID": 855
+    },
+    {
+      "solution": -43798,
+      "ID": 856
+    },
+    {
+      "solution": -26798,
+      "ID": 857
+    },
+    {
+      "solution": -36523,
+      "ID": 858
+    },
+    {
+      "solution": -23889,
+      "ID": 859
+    },
+    {
+      "solution": -32890,
+      "ID": 860
+    },
+    {
+      "solution": 2443,
+      "ID": 861
+    },
+    {
+      "solution": -20528,
+      "ID": 862
+    },
+    {
+      "solution": -50233,
+      "ID": 863
+    },
+    {
+      "solution": -41858,
+      "ID": 864
+    },
+    {
+      "solution": -23581,
+      "ID": 865
+    },
+    {
+      "solution": -23933,
+      "ID": 866
+    },
+    {
+      "solution": -17555,
+      "ID": 867
+    },
+    {
+      "solution": -53988,
+      "ID": 868
+    },
+    {
+      "solution": -59064,
+      "ID": 869
+    },
+    {
+      "solution": -9110,
+      "ID": 870
+    },
+    {
+      "solution": -31844,
+      "ID": 871
+    },
+    {
+      "solution": -67534,
+      "ID": 872
+    },
+    {
+      "solution": -57015,
+      "ID": 873
+    },
+    {
+      "solution": -5828,
+      "ID": 874
+    },
+    {
+      "solution": -62037,
+      "ID": 875
+    },
+    {
+      "solution": -41442,
+      "ID": 876
+    },
+    {
+      "solution": -20041,
+      "ID": 877
+    },
+    {
+      "solution": -27666,
+      "ID": 878
+    },
+    {
+      "solution": -4635,
+      "ID": 879
+    },
+    {
+      "solution": -48599,
+      "ID": 880
+    },
+    {
+      "solution": -1710,
+      "ID": 881
+    },
+    {
+      "solution": -23068,
+      "ID": 882
+    },
+    {
+      "solution": -44082,
+      "ID": 883
+    },
+    {
+      "solution": -7066,
+      "ID": 884
+    },
+    {
+      "solution": -35959,
+      "ID": 885
+    },
+    {
+      "solution": -31131,
+      "ID": 886
+    },
+    {
+      "solution": -69093,
+      "ID": 887
+    },
+    {
+      "solution": -40273,
+      "ID": 888
+    },
+    {
+      "solution": -49346,
+      "ID": 889
+    },
+    {
+      "solution": -32156,
+      "ID": 890
+    },
+    {
+      "solution": -52858,
+      "ID": 891
+    },
+    {
+      "solution": -39385,
+      "ID": 892
+    },
+    {
+      "solution": -36352,
+      "ID": 893
+    },
+    {
+      "solution": -17936,
+      "ID": 894
+    },
+    {
+      "solution": -50058,
+      "ID": 895
+    },
+    {
+      "solution": 8528,
+      "ID": 896
+    },
+    {
+      "solution": -15498,
+      "ID": 897
+    },
+    {
+      "solution": -21870,
+      "ID": 898
+    },
+    {
+      "solution": -72777,
+      "ID": 899
+    },
+    {
+      "solution": -44877,
+      "ID": 900
+    },
+    {
+      "solution": -34084,
+      "ID": 901
+    },
+    {
+      "solution": -26596,
+      "ID": 902
+    },
+    {
+      "solution": -24816,
+      "ID": 903
+    },
+    {
+      "solution": -56808,
+      "ID": 904
+    },
+    {
+      "solution": -24836,
+      "ID": 905
+    },
+    {
+      "solution": -36212,
+      "ID": 906
+    },
+    {
+      "solution": -65424,
+      "ID": 907
+    },
+    {
+      "solution": -11537,
+      "ID": 908
+    },
+    {
+      "solution": -46723,
+      "ID": 909
+    },
+    {
+      "solution": -29081,
+      "ID": 910
+    },
+    {
+      "solution": -13528,
+      "ID": 911
+    },
+    {
+      "solution": -14153,
+      "ID": 912
+    },
+    {
+      "solution": -27394,
+      "ID": 913
+    },
+    {
+      "solution": -53641,
+      "ID": 914
+    },
+    {
+      "solution": -19887,
+      "ID": 915
+    },
+    {
+      "solution": -57268,
+      "ID": 916
+    },
+    {
+      "solution": -47451,
+      "ID": 917
+    },
+    {
+      "solution": -26209,
+      "ID": 918
+    },
+    {
+      "solution": -4789,
+      "ID": 919
+    },
+    {
+      "solution": -29879,
+      "ID": 920
+    },
+    {
+      "solution": -54221,
+      "ID": 921
+    },
+    {
+      "solution": -36323,
+      "ID": 922
+    },
+    {
+      "solution": -30730,
+      "ID": 923
+    },
+    {
+      "solution": -13032,
+      "ID": 924
+    },
+    {
+      "solution": -43956,
+      "ID": 925
+    },
+    {
+      "solution": -14358,
+      "ID": 926
+    },
+    {
+      "solution": -69013,
+      "ID": 927
+    },
+    {
+      "solution": -19090,
+      "ID": 928
+    },
+    {
+      "solution": -3946,
+      "ID": 929
+    },
+    {
+      "solution": -77600,
+      "ID": 930
+    },
+    {
+      "solution": -17494,
+      "ID": 931
+    },
+    {
+      "solution": -27978,
+      "ID": 932
+    },
+    {
+      "solution": -27199,
+      "ID": 933
+    },
+    {
+      "solution": -63229,
+      "ID": 934
+    },
+    {
+      "solution": -57580,
+      "ID": 935
+    },
+    {
+      "solution": -46941,
+      "ID": 936
+    },
+    {
+      "solution": -8777,
+      "ID": 937
+    },
+    {
+      "solution": -11352,
+      "ID": 938
+    },
+    {
+      "solution": -7020,
+      "ID": 939
+    },
+    {
+      "solution": -36224,
+      "ID": 940
+    },
+    {
+      "solution": -71433,
+      "ID": 941
+    },
+    {
+      "solution": -56374,
+      "ID": 942
+    },
+    {
+      "solution": -27333,
+      "ID": 943
+    },
+    {
+      "solution": -57930,
+      "ID": 944
+    },
+    {
+      "solution": -50504,
+      "ID": 945
+    },
+    {
+      "solution": -37679,
+      "ID": 946
+    },
+    {
+      "solution": -21435,
+      "ID": 947
+    },
+    {
+      "solution": -50705,
+      "ID": 948
+    },
+    {
+      "solution": -76153,
+      "ID": 949
+    },
+    {
+      "solution": -59222,
+      "ID": 950
+    },
+    {
+      "solution": -41335,
+      "ID": 951
+    },
+    {
+      "solution": -7231,
+      "ID": 952
+    },
+    {
+      "solution": -49034,
+      "ID": 953
+    },
+    {
+      "solution": -28349,
+      "ID": 954
+    },
+    {
+      "solution": -68437,
+      "ID": 955
+    },
+    {
+      "solution": -1127,
+      "ID": 956
+    },
+    {
+      "solution": -57796,
+      "ID": 957
+    },
+    {
+      "solution": -85653,
+      "ID": 958
+    },
+    {
+      "solution": -60333,
+      "ID": 959
+    },
+    {
+      "solution": -64231,
+      "ID": 960
+    },
+    {
+      "solution": -10846,
+      "ID": 961
+    },
+    {
+      "solution": 7635,
+      "ID": 962
+    },
+    {
+      "solution": -25192,
+      "ID": 963
+    },
+    {
+      "solution": -40542,
+      "ID": 964
+    },
+    {
+      "solution": -18176,
+      "ID": 965
+    },
+    {
+      "solution": -46398,
+      "ID": 966
+    },
+    {
+      "solution": -33311,
+      "ID": 967
+    },
+    {
+      "solution": -59903,
+      "ID": 968
+    },
+    {
+      "solution": -45915,
+      "ID": 969
+    },
+    {
+      "solution": -61725,
+      "ID": 970
+    },
+    {
+      "solution": -53813,
+      "ID": 971
+    },
+    {
+      "solution": -55252,
+      "ID": 972
+    },
+    {
+      "solution": -26871,
+      "ID": 973
+    },
+    {
+      "solution": -60409,
+      "ID": 974
+    },
+    {
+      "solution": -63355,
+      "ID": 975
+    },
+    {
+      "solution": -14817,
+      "ID": 976
+    },
+    {
+      "solution": -57637,
+      "ID": 977
+    },
+    {
+      "solution": -61213,
+      "ID": 978
+    },
+    {
+      "solution": -21305,
+      "ID": 979
+    },
+    {
+      "solution": -7568,
+      "ID": 980
+    },
+    {
+      "solution": -63693,
+      "ID": 981
+    },
+    {
+      "solution": -54735,
+      "ID": 982
+    },
+    {
+      "solution": -41127,
+      "ID": 983
+    },
+    {
+      "solution": -10521,
+      "ID": 984
+    },
+    {
+      "solution": -66135,
+      "ID": 985
+    },
+    {
+      "solution": -7783,
+      "ID": 986
+    },
+    {
+      "solution": -2227,
+      "ID": 987
+    },
+    {
+      "solution": -22597,
+      "ID": 988
+    },
+    {
+      "solution": -53138,
+      "ID": 989
+    },
+    {
+      "solution": -11112,
+      "ID": 990
+    },
+    {
+      "solution": -22177,
+      "ID": 991
+    },
+    {
+      "solution": -39211,
+      "ID": 992
+    },
+    {
+      "solution": -8747,
+      "ID": 993
+    },
+    {
+      "solution": -16095,
+      "ID": 994
+    },
+    {
+      "solution": -56079,
+      "ID": 995
+    },
+    {
+      "solution": -18926,
+      "ID": 996
+    },
+    {
+      "solution": -59458,
+      "ID": 997
+    },
+    {
+      "solution": -10000,
+      "ID": 998
+    },
+    {
+      "solution": -39997,
+      "ID": 999
+    },
+    {
+      "solution": -36222,
+      "ID": 1000
+    },
+    {
+      "solution": -64128,
+      "ID": 1001
+    },
+    {
+      "solution": -7368,
+      "ID": 1002
+    },
+    {
+      "solution": -22100,
+      "ID": 1003
+    },
+    {
+      "solution": -12220,
+      "ID": 1004
+    },
+    {
+      "solution": -20125,
+      "ID": 1005
+    },
+    {
+      "solution": -5455,
+      "ID": 1006
+    },
+    {
+      "solution": -69975,
+      "ID": 1007
+    },
+    {
+      "solution": -70234,
+      "ID": 1008
+    },
+    {
+      "solution": -60946,
+      "ID": 1009
+    },
+    {
+      "solution": -23516,
+      "ID": 1010
+    },
+    {
+      "solution": -16749,
+      "ID": 1011
+    },
+    {
+      "solution": -11954,
+      "ID": 1012
+    },
+    {
+      "solution": 6465,
+      "ID": 1013
+    },
+    {
+      "solution": -22207,
+      "ID": 1014
+    },
+    {
+      "solution": -11618,
+      "ID": 1015
+    },
+    {
+      "solution": -6795,
+      "ID": 1016
+    },
+    {
+      "solution": -65093,
+      "ID": 1017
+    },
+    {
+      "solution": -59110,
+      "ID": 1018
+    },
+    {
+      "solution": -9497,
+      "ID": 1019
+    },
+    {
+      "solution": -27267,
+      "ID": 1020
+    },
+    {
+      "solution": -53925,
+      "ID": 1021
+    },
+    {
+      "solution": -24871,
+      "ID": 1022
+    },
+    {
+      "solution": 730,
+      "ID": 1023
+    },
+    {
+      "solution": -35973,
+      "ID": 1024
+    },
+    {
+      "solution": -18955,
+      "ID": 1025
+    },
+    {
+      "solution": -29280,
+      "ID": 1026
+    },
+    {
+      "solution": -60710,
+      "ID": 1027
+    },
+    {
+      "solution": -8468,
+      "ID": 1028
+    },
+    {
+      "solution": -51866,
+      "ID": 1029
+    },
+    {
+      "solution": 5357,
+      "ID": 1030
+    },
+    {
+      "solution": -33448,
+      "ID": 1031
+    },
+    {
+      "solution": -29074,
+      "ID": 1032
+    },
+    {
+      "solution": -8667,
+      "ID": 1033
+    },
+    {
+      "solution": -28764,
+      "ID": 1034
+    },
+    {
+      "solution": -54042,
+      "ID": 1035
+    },
+    {
+      "solution": -25851,
+      "ID": 1036
+    },
+    {
+      "solution": -8009,
+      "ID": 1037
+    },
+    {
+      "solution": -9312,
+      "ID": 1038
+    },
+    {
+      "solution": -55046,
+      "ID": 1039
+    },
+    {
+      "solution": -71468,
+      "ID": 1040
+    },
+    {
+      "solution": -12568,
+      "ID": 1041
+    },
+    {
+      "solution": -55842,
+      "ID": 1042
+    },
+    {
+      "solution": -47162,
+      "ID": 1043
+    },
+    {
+      "solution": -28404,
+      "ID": 1044
+    },
+    {
+      "solution": -14618,
+      "ID": 1045
+    },
+    {
+      "solution": 3863,
+      "ID": 1046
+    },
+    {
+      "solution": -10596,
+      "ID": 1047
+    },
+    {
+      "solution": -31429,
+      "ID": 1048
+    },
+    {
+      "solution": -30825,
+      "ID": 1049
+    },
+    {
+      "solution": -48151,
+      "ID": 1050
+    },
+    {
+      "solution": -69182,
+      "ID": 1051
+    },
+    {
+      "solution": -56,
+      "ID": 1052
+    },
+    {
+      "solution": -13710,
+      "ID": 1053
+    },
+    {
+      "solution": -8718,
+      "ID": 1054
+    },
+    {
+      "solution": -24799,
+      "ID": 1055
+    },
+    {
+      "solution": -36514,
+      "ID": 1056
+    },
+    {
+      "solution": -8726,
+      "ID": 1057
+    },
+    {
+      "solution": -58751,
+      "ID": 1058
+    },
+    {
+      "solution": -48655,
+      "ID": 1059
+    },
+    {
+      "solution": -60832,
+      "ID": 1060
+    },
+    {
+      "solution": -1859,
+      "ID": 1061
+    },
+    {
+      "solution": -51811,
+      "ID": 1062
+    },
+    {
+      "solution": -9365,
+      "ID": 1063
+    },
+    {
+      "solution": -32786,
+      "ID": 1064
+    },
+    {
+      "solution": -21599,
+      "ID": 1065
+    },
+    {
+      "solution": 1599,
+      "ID": 1066
+    },
+    {
+      "solution": -61017,
+      "ID": 1067
+    },
+    {
+      "solution": -54691,
+      "ID": 1068
+    },
+    {
+      "solution": -64367,
+      "ID": 1069
+    },
+    {
+      "solution": -63317,
+      "ID": 1070
+    },
+    {
+      "solution": -35258,
+      "ID": 1071
+    },
+    {
+      "solution": -33352,
+      "ID": 1072
+    },
+    {
+      "solution": -57757,
+      "ID": 1073
+    },
+    {
+      "solution": -47497,
+      "ID": 1074
+    },
+    {
+      "solution": -43587,
+      "ID": 1075
+    },
+    {
+      "solution": -65483,
+      "ID": 1076
+    },
+    {
+      "solution": -22494,
+      "ID": 1077
+    },
+    {
+      "solution": -43181,
+      "ID": 1078
+    },
+    {
+      "solution": -40664,
+      "ID": 1079
+    },
+    {
+      "solution": -56633,
+      "ID": 1080
+    },
+    {
+      "solution": -32337,
+      "ID": 1081
+    },
+    {
+      "solution": -34545,
+      "ID": 1082
+    },
+    {
+      "solution": -6629,
+      "ID": 1083
+    },
+    {
+      "solution": -24757,
+      "ID": 1084
+    },
+    {
+      "solution": 3476,
+      "ID": 1085
+    },
+    {
+      "solution": 9123,
+      "ID": 1086
+    },
+    {
+      "solution": -14751,
+      "ID": 1087
+    },
+    {
+      "solution": -49867,
+      "ID": 1088
+    },
+    {
+      "solution": -56538,
+      "ID": 1089
+    },
+    {
+      "solution": -63116,
+      "ID": 1090
+    },
+    {
+      "solution": -20539,
+      "ID": 1091
+    },
+    {
+      "solution": -4970,
+      "ID": 1092
+    },
+    {
+      "solution": -31205,
+      "ID": 1093
+    },
+    {
+      "solution": -44469,
+      "ID": 1094
+    },
+    {
+      "solution": -36688,
+      "ID": 1095
+    },
+    {
+      "solution": -60319,
+      "ID": 1096
+    },
+    {
+      "solution": -6104,
+      "ID": 1097
+    },
+    {
+      "solution": -30079,
+      "ID": 1098
+    },
+    {
+      "solution": -67758,
+      "ID": 1099
+    },
+    {
+      "solution": -51741,
+      "ID": 1100
+    },
+    {
+      "solution": -31655,
+      "ID": 1101
+    },
+    {
+      "solution": -48552,
+      "ID": 1102
+    },
+    {
+      "solution": -21648,
+      "ID": 1103
+    },
+    {
+      "solution": -48797,
+      "ID": 1104
+    },
+    {
+      "solution": -13708,
+      "ID": 1105
+    },
+    {
+      "solution": -31091,
+      "ID": 1106
+    },
+    {
+      "solution": -33323,
+      "ID": 1107
+    },
+    {
+      "solution": -38401,
+      "ID": 1108
+    },
+    {
+      "solution": -40995,
+      "ID": 1109
+    },
+    {
+      "solution": -30994,
+      "ID": 1110
+    },
+    {
+      "solution": -33275,
+      "ID": 1111
+    },
+    {
+      "solution": -50169,
+      "ID": 1112
+    },
+    {
+      "solution": -51507,
+      "ID": 1113
+    },
+    {
+      "solution": -31841,
+      "ID": 1114
+    },
+    {
+      "solution": -33484,
+      "ID": 1115
+    },
+    {
+      "solution": -18747,
+      "ID": 1116
+    },
+    {
+      "solution": -20591,
+      "ID": 1117
+    },
+    {
+      "solution": -31164,
+      "ID": 1118
+    },
+    {
+      "solution": -17497,
+      "ID": 1119
+    },
+    {
+      "solution": -67679,
+      "ID": 1120
+    },
+    {
+      "solution": -12193,
+      "ID": 1121
+    },
+    {
+      "solution": -59930,
+      "ID": 1122
+    },
+    {
+      "solution": -37053,
+      "ID": 1123
+    },
+    {
+      "solution": -17936,
+      "ID": 1124
+    },
+    {
+      "solution": -67952,
+      "ID": 1125
+    },
+    {
+      "solution": -12085,
+      "ID": 1126
+    },
+    {
+      "solution": -19904,
+      "ID": 1127
+    },
+    {
+      "solution": -32624,
+      "ID": 1128
+    },
+    {
+      "solution": -18163,
+      "ID": 1129
+    },
+    {
+      "solution": -15864,
+      "ID": 1130
+    },
+    {
+      "solution": -51456,
+      "ID": 1131
+    },
+    {
+      "solution": -62407,
+      "ID": 1132
+    },
+    {
+      "solution": -56293,
+      "ID": 1133
+    },
+    {
+      "solution": -38562,
+      "ID": 1134
+    },
+    {
+      "solution": -67811,
+      "ID": 1135
+    },
+    {
+      "solution": -29063,
+      "ID": 1136
+    },
+    {
+      "solution": -11519,
+      "ID": 1137
+    },
+    {
+      "solution": -16224,
+      "ID": 1138
+    },
+    {
+      "solution": -47038,
+      "ID": 1139
+    },
+    {
+      "solution": -51320,
+      "ID": 1140
+    },
+    {
+      "solution": -970,
+      "ID": 1141
+    },
+    {
+      "solution": -63440,
+      "ID": 1142
+    },
+    {
+      "solution": -24133,
+      "ID": 1143
+    },
+    {
+      "solution": -64226,
+      "ID": 1144
+    },
+    {
+      "solution": -16557,
+      "ID": 1145
+    },
+    {
+      "solution": -28779,
+      "ID": 1146
+    },
+    {
+      "solution": -49869,
+      "ID": 1147
+    },
+    {
+      "solution": -59231,
+      "ID": 1148
+    },
+    {
+      "solution": -25609,
+      "ID": 1149
+    },
+    {
+      "solution": -38638,
+      "ID": 1150
+    },
+    {
+      "solution": -31401,
+      "ID": 1151
+    },
+    {
+      "solution": -41671,
+      "ID": 1152
+    },
+    {
+      "solution": -10121,
+      "ID": 1153
+    },
+    {
+      "solution": -10917,
+      "ID": 1154
+    },
+    {
+      "solution": -48549,
+      "ID": 1155
+    },
+    {
+      "solution": -26737,
+      "ID": 1156
+    },
+    {
+      "solution": -26780,
+      "ID": 1157
+    },
+    {
+      "solution": -54958,
+      "ID": 1158
+    },
+    {
+      "solution": -50461,
+      "ID": 1159
+    },
+    {
+      "solution": -40677,
+      "ID": 1160
+    },
+    {
+      "solution": -33745,
+      "ID": 1161
+    },
+    {
+      "solution": -25535,
+      "ID": 1162
+    },
+    {
+      "solution": -50417,
+      "ID": 1163
+    },
+    {
+      "solution": -13902,
+      "ID": 1164
+    },
+    {
+      "solution": -69625,
+      "ID": 1165
+    },
+    {
+      "solution": -53241,
+      "ID": 1166
+    },
+    {
+      "solution": -64319,
+      "ID": 1167
+    },
+    {
+      "solution": -9445,
+      "ID": 1168
+    },
+    {
+      "solution": -42341,
+      "ID": 1169
+    },
+    {
+      "solution": -23067,
+      "ID": 1170
+    },
+    {
+      "solution": -47277,
+      "ID": 1171
+    },
+    {
+      "solution": -15216,
+      "ID": 1172
+    },
+    {
+      "solution": -53216,
+      "ID": 1173
+    },
+    {
+      "solution": -39542,
+      "ID": 1174
+    },
+    {
+      "solution": -9556,
+      "ID": 1175
+    },
+    {
+      "solution": 7717,
+      "ID": 1176
+    },
+    {
+      "solution": -64502,
+      "ID": 1177
+    },
+    {
+      "solution": -25937,
+      "ID": 1178
+    },
+    {
+      "solution": -46373,
+      "ID": 1179
+    },
+    {
+      "solution": -4705,
+      "ID": 1180
+    },
+    {
+      "solution": -38165,
+      "ID": 1181
+    },
+    {
+      "solution": -36325,
+      "ID": 1182
+    },
+    {
+      "solution": -41355,
+      "ID": 1183
+    },
+    {
+      "solution": -67794,
+      "ID": 1184
+    },
+    {
+      "solution": -45614,
+      "ID": 1185
+    },
+    {
+      "solution": -24108,
+      "ID": 1186
+    },
+    {
+      "solution": -54878,
+      "ID": 1187
+    },
+    {
+      "solution": -30718,
+      "ID": 1188
+    },
+    {
+      "solution": -46334,
+      "ID": 1189
+    },
+    {
+      "solution": -56738,
+      "ID": 1190
+    },
+    {
+      "solution": -53250,
+      "ID": 1191
+    },
+    {
+      "solution": -24574,
+      "ID": 1192
+    },
+    {
+      "solution": -65736,
+      "ID": 1193
+    },
+    {
+      "solution": -48282,
+      "ID": 1194
+    },
+    {
+      "solution": -39457,
+      "ID": 1195
+    },
+    {
+      "solution": -10554,
+      "ID": 1196
+    },
+    {
+      "solution": -22841,
+      "ID": 1197
+    },
+    {
+      "solution": -4676,
+      "ID": 1198
+    },
+    {
+      "solution": -54018,
+      "ID": 1199
+    },
+    {
+      "solution": -11940,
+      "ID": 1200
+    },
+    {
+      "solution": -34083,
+      "ID": 1201
+    },
+    {
+      "solution": -71462,
+      "ID": 1202
+    },
+    {
+      "solution": -21043,
+      "ID": 1203
+    },
+    {
+      "solution": -34376,
+      "ID": 1204
+    },
+    {
+      "solution": -48719,
+      "ID": 1205
+    },
+    {
+      "solution": -12583,
+      "ID": 1206
+    },
+    {
+      "solution": -14974,
+      "ID": 1207
+    },
+    {
+      "solution": -8162,
+      "ID": 1208
+    },
+    {
+      "solution": -24245,
+      "ID": 1209
+    },
+    {
+      "solution": -18548,
+      "ID": 1210
+    },
+    {
+      "solution": -22226,
+      "ID": 1211
+    },
+    {
+      "solution": -43934,
+      "ID": 1212
+    },
+    {
+      "solution": -58428,
+      "ID": 1213
+    },
+    {
+      "solution": -60213,
+      "ID": 1214
+    },
+    {
+      "solution": -45420,
+      "ID": 1215
+    },
+    {
+      "solution": -50969,
+      "ID": 1216
+    },
+    {
+      "solution": -61071,
+      "ID": 1217
+    },
+    {
+      "solution": -23837,
+      "ID": 1218
+    },
+    {
+      "solution": -42840,
+      "ID": 1219
+    },
+    {
+      "solution": -39660,
+      "ID": 1220
+    },
+    {
+      "solution": -7962,
+      "ID": 1221
+    },
+    {
+      "solution": -36170,
+      "ID": 1222
+    },
+    {
+      "solution": -1808,
+      "ID": 1223
+    },
+    {
+      "solution": -21215,
+      "ID": 1224
+    },
+    {
+      "solution": -17229,
+      "ID": 1225
+    },
+    {
+      "solution": -23853,
+      "ID": 1226
+    },
+    {
+      "solution": -30180,
+      "ID": 1227
+    },
+    {
+      "solution": -24534,
+      "ID": 1228
+    },
+    {
+      "solution": -29187,
+      "ID": 1229
+    },
+    {
+      "solution": -22093,
+      "ID": 1230
+    },
+    {
+      "solution": -59971,
+      "ID": 1231
+    },
+    {
+      "solution": -22789,
+      "ID": 1232
+    },
+    {
+      "solution": -33980,
+      "ID": 1233
+    },
+    {
+      "solution": -51727,
+      "ID": 1234
+    },
+    {
+      "solution": 3356,
+      "ID": 1235
+    },
+    {
+      "solution": -21706,
+      "ID": 1236
+    },
+    {
+      "solution": -64392,
+      "ID": 1237
+    },
+    {
+      "solution": -57274,
+      "ID": 1238
+    },
+    {
+      "solution": -39980,
+      "ID": 1239
+    },
+    {
+      "solution": -31518,
+      "ID": 1240
+    },
+    {
+      "solution": -11621,
+      "ID": 1241
+    },
+    {
+      "solution": -64529,
+      "ID": 1242
+    },
+    {
+      "solution": -25937,
+      "ID": 1243
+    },
+    {
+      "solution": -29429,
+      "ID": 1244
+    },
+    {
+      "solution": -45205,
+      "ID": 1245
+    },
+    {
+      "solution": -20838,
+      "ID": 1246
+    },
+    {
+      "solution": -28250,
+      "ID": 1247
+    },
+    {
+      "solution": -64113,
+      "ID": 1248
+    },
+    {
+      "solution": -13766,
+      "ID": 1249
+    },
+    {
+      "solution": -25271,
+      "ID": 1250
+    },
+    {
+      "solution": -54830,
+      "ID": 1251
+    },
+    {
+      "solution": -71090,
+      "ID": 1252
+    },
+    {
+      "solution": -58469,
+      "ID": 1253
+    },
+    {
+      "solution": -72656,
+      "ID": 1254
+    },
+    {
+      "solution": -40050,
+      "ID": 1255
+    },
+    {
+      "solution": -54177,
+      "ID": 1256
+    },
+    {
+      "solution": -54549,
+      "ID": 1257
+    },
+    {
+      "solution": -63038,
+      "ID": 1258
+    },
+    {
+      "solution": -54100,
+      "ID": 1259
+    },
+    {
+      "solution": -25943,
+      "ID": 1260
+    },
+    {
+      "solution": -63860,
+      "ID": 1261
+    },
+    {
+      "solution": -22803,
+      "ID": 1262
+    },
+    {
+      "solution": -35500,
+      "ID": 1263
+    },
+    {
+      "solution": -1050,
+      "ID": 1264
+    },
+    {
+      "solution": -47259,
+      "ID": 1265
+    },
+    {
+      "solution": -55126,
+      "ID": 1266
+    },
+    {
+      "solution": -36414,
+      "ID": 1267
+    },
+    {
+      "solution": -25044,
+      "ID": 1268
+    },
+    {
+      "solution": -27578,
+      "ID": 1269
+    },
+    {
+      "solution": -39932,
+      "ID": 1270
+    },
+    {
+      "solution": -48034,
+      "ID": 1271
+    },
+    {
+      "solution": -5730,
+      "ID": 1272
+    },
+    {
+      "solution": -30153,
+      "ID": 1273
+    },
+    {
+      "solution": -47225,
+      "ID": 1274
+    },
+    {
+      "solution": -32471,
+      "ID": 1275
+    },
+    {
+      "solution": -68099,
+      "ID": 1276
+    },
+    {
+      "solution": -15185,
+      "ID": 1277
+    },
+    {
+      "solution": -7954,
+      "ID": 1278
+    },
+    {
+      "solution": -76472,
+      "ID": 1279
+    },
+    {
+      "solution": -40449,
+      "ID": 1280
+    },
+    {
+      "solution": -15509,
+      "ID": 1281
+    },
+    {
+      "solution": -49123,
+      "ID": 1282
+    },
+    {
+      "solution": -76334,
+      "ID": 1283
+    },
+    {
+      "solution": -5778,
+      "ID": 1284
+    },
+    {
+      "solution": -6192,
+      "ID": 1285
+    },
+    {
+      "solution": -15365,
+      "ID": 1286
+    },
+    {
+      "solution": -49322,
+      "ID": 1287
+    },
+    {
+      "solution": -25258,
+      "ID": 1288
+    },
+    {
+      "solution": -44485,
+      "ID": 1289
+    },
+    {
+      "solution": -33017,
+      "ID": 1290
+    },
+    {
+      "solution": -53549,
+      "ID": 1291
+    },
+    {
+      "solution": -41872,
+      "ID": 1292
+    },
+    {
+      "solution": -13687,
+      "ID": 1293
+    },
+    {
+      "solution": -2402,
+      "ID": 1294
+    },
+    {
+      "solution": -41284,
+      "ID": 1295
+    },
+    {
+      "solution": -12035,
+      "ID": 1296
+    },
+    {
+      "solution": -59835,
+      "ID": 1297
+    },
+    {
+      "solution": -3558,
+      "ID": 1298
+    },
+    {
+      "solution": 6865,
+      "ID": 1299
+    },
+    {
+      "solution": -53621,
+      "ID": 1300
+    },
+    {
+      "solution": -59642,
+      "ID": 1301
+    },
+    {
+      "solution": 1150,
+      "ID": 1302
+    },
+    {
+      "solution": -32478,
+      "ID": 1303
+    },
+    {
+      "solution": 12161,
+      "ID": 1304
+    },
+    {
+      "solution": -56159,
+      "ID": 1305
+    },
+    {
+      "solution": -30974,
+      "ID": 1306
+    },
+    {
+      "solution": -32571,
+      "ID": 1307
+    },
+    {
+      "solution": -38896,
+      "ID": 1308
+    },
+    {
+      "solution": -53013,
+      "ID": 1309
+    },
+    {
+      "solution": -71754,
+      "ID": 1310
+    },
+    {
+      "solution": -1723,
+      "ID": 1311
+    },
+    {
+      "solution": -44422,
+      "ID": 1312
+    },
+    {
+      "solution": -12348,
+      "ID": 1313
+    },
+    {
+      "solution": -23721,
+      "ID": 1314
+    },
+    {
+      "solution": -35135,
+      "ID": 1315
+    },
+    {
+      "solution": -19509,
+      "ID": 1316
+    },
+    {
+      "solution": -46709,
+      "ID": 1317
+    },
+    {
+      "solution": -50972,
+      "ID": 1318
+    },
+    {
+      "solution": -50786,
+      "ID": 1319
+    },
+    {
+      "solution": -31374,
+      "ID": 1320
+    },
+    {
+      "solution": -68219,
+      "ID": 1321
+    },
+    {
+      "solution": -21301,
+      "ID": 1322
+    },
+    {
+      "solution": -14593,
+      "ID": 1323
+    },
+    {
+      "solution": -69608,
+      "ID": 1324
+    },
+    {
+      "solution": -10078,
+      "ID": 1325
+    },
+    {
+      "solution": -58948,
+      "ID": 1326
+    },
+    {
+      "solution": -8678,
+      "ID": 1327
+    },
+    {
+      "solution": -61957,
+      "ID": 1328
+    },
+    {
+      "solution": -41864,
+      "ID": 1329
+    },
+    {
+      "solution": -27637,
+      "ID": 1330
+    },
+    {
+      "solution": -19139,
+      "ID": 1331
+    },
+    {
+      "solution": -53888,
+      "ID": 1332
+    },
+    {
+      "solution": -52420,
+      "ID": 1333
+    },
+    {
+      "solution": -73966,
+      "ID": 1334
+    },
+    {
+      "solution": -34735,
+      "ID": 1335
+    },
+    {
+      "solution": -56999,
+      "ID": 1336
+    },
+    {
+      "solution": -9218,
+      "ID": 1337
+    },
+    {
+      "solution": -31675,
+      "ID": 1338
+    },
+    {
+      "solution": -8608,
+      "ID": 1339
+    },
+    {
+      "solution": -53576,
+      "ID": 1340
+    },
+    {
+      "solution": -43027,
+      "ID": 1341
+    },
+    {
+      "solution": -63894,
+      "ID": 1342
+    },
+    {
+      "solution": -67090,
+      "ID": 1343
+    },
+    {
+      "solution": -15954,
+      "ID": 1344
+    },
+    {
+      "solution": -9450,
+      "ID": 1345
+    },
+    {
+      "solution": -48204,
+      "ID": 1346
+    },
+    {
+      "solution": -31972,
+      "ID": 1347
+    },
+    {
+      "solution": -17189,
+      "ID": 1348
+    },
+    {
+      "solution": -39900,
+      "ID": 1349
+    },
+    {
+      "solution": -7970,
+      "ID": 1350
+    },
+    {
+      "solution": -24742,
+      "ID": 1351
+    },
+    {
+      "solution": -69813,
+      "ID": 1352
+    },
+    {
+      "solution": -4182,
+      "ID": 1353
+    },
+    {
+      "solution": -40792,
+      "ID": 1354
+    },
+    {
+      "solution": -50528,
+      "ID": 1355
+    },
+    {
+      "solution": -48476,
+      "ID": 1356
+    },
+    {
+      "solution": -55185,
+      "ID": 1357
+    },
+    {
+      "solution": -37041,
+      "ID": 1358
+    },
+    {
+      "solution": -75014,
+      "ID": 1359
+    },
+    {
+      "solution": -68294,
+      "ID": 1360
+    },
+    {
+      "solution": -58195,
+      "ID": 1361
+    },
+    {
+      "solution": 6729,
+      "ID": 1362
+    },
+    {
+      "solution": -15870,
+      "ID": 1363
+    },
+    {
+      "solution": -41811,
+      "ID": 1364
+    },
+    {
+      "solution": -58048,
+      "ID": 1365
+    },
+    {
+      "solution": -23618,
+      "ID": 1366
+    },
+    {
+      "solution": -59907,
+      "ID": 1367
+    },
+    {
+      "solution": -60453,
+      "ID": 1368
+    },
+    {
+      "solution": -47845,
+      "ID": 1369
+    },
+    {
+      "solution": -19749,
+      "ID": 1370
+    },
+    {
+      "solution": 10095,
+      "ID": 1371
+    },
+    {
+      "solution": -56168,
+      "ID": 1372
+    },
+    {
+      "solution": -47763,
+      "ID": 1373
+    },
+    {
+      "solution": -27788,
+      "ID": 1374
+    },
+    {
+      "solution": -11896,
+      "ID": 1375
+    },
+    {
+      "solution": -24565,
+      "ID": 1376
+    },
+    {
+      "solution": -62909,
+      "ID": 1377
+    },
+    {
+      "solution": -65415,
+      "ID": 1378
+    },
+    {
+      "solution": -32277,
+      "ID": 1379
+    },
+    {
+      "solution": -11208,
+      "ID": 1380
+    },
+    {
+      "solution": -47803,
+      "ID": 1381
+    },
+    {
+      "solution": -1126,
+      "ID": 1382
+    },
+    {
+      "solution": -21608,
+      "ID": 1383
+    },
+    {
+      "solution": -35957,
+      "ID": 1384
+    },
+    {
+      "solution": -73085,
+      "ID": 1385
+    },
+    {
+      "solution": -46076,
+      "ID": 1386
+    },
+    {
+      "solution": -32862,
+      "ID": 1387
+    },
+    {
+      "solution": -45849,
+      "ID": 1388
+    },
+    {
+      "solution": -45330,
+      "ID": 1389
+    },
+    {
+      "solution": -68378,
+      "ID": 1390
+    },
+    {
+      "solution": -50461,
+      "ID": 1391
+    },
+    {
+      "solution": -34148,
+      "ID": 1392
+    },
+    {
+      "solution": -48437,
+      "ID": 1393
+    },
+    {
+      "solution": -2312,
+      "ID": 1394
+    },
+    {
+      "solution": -24419,
+      "ID": 1395
+    },
+    {
+      "solution": -37213,
+      "ID": 1396
+    },
+    {
+      "solution": -60168,
+      "ID": 1397
+    },
+    {
+      "solution": -33214,
+      "ID": 1398
+    },
+    {
+      "solution": -6569,
+      "ID": 1399
+    },
+    {
+      "solution": -49088,
+      "ID": 1400
+    },
+    {
+      "solution": -13522,
+      "ID": 1401
+    },
+    {
+      "solution": -42491,
+      "ID": 1402
+    },
+    {
+      "solution": -18846,
+      "ID": 1403
+    },
+    {
+      "solution": -55233,
+      "ID": 1404
+    },
+    {
+      "solution": -70439,
+      "ID": 1405
+    },
+    {
+      "solution": -16314,
+      "ID": 1406
+    },
+    {
+      "solution": -52080,
+      "ID": 1407
+    },
+    {
+      "solution": -34311,
+      "ID": 1408
+    },
+    {
+      "solution": -21594,
+      "ID": 1409
+    },
+    {
+      "solution": -27960,
+      "ID": 1410
+    },
+    {
+      "solution": -26044,
+      "ID": 1411
+    },
+    {
+      "solution": -70094,
+      "ID": 1412
+    },
+    {
+      "solution": -6143,
+      "ID": 1413
+    },
+    {
+      "solution": -5461,
+      "ID": 1414
+    },
+    {
+      "solution": -38436,
+      "ID": 1415
+    },
+    {
+      "solution": -5219,
+      "ID": 1416
+    },
+    {
+      "solution": -62257,
+      "ID": 1417
+    },
+    {
+      "solution": -33085,
+      "ID": 1418
+    },
+    {
+      "solution": -44906,
+      "ID": 1419
+    },
+    {
+      "solution": -28421,
+      "ID": 1420
+    },
+    {
+      "solution": -52390,
+      "ID": 1421
+    },
+    {
+      "solution": -37678,
+      "ID": 1422
+    },
+    {
+      "solution": -22254,
+      "ID": 1423
+    },
+    {
+      "solution": -27585,
+      "ID": 1424
+    },
+    {
+      "solution": -61800,
+      "ID": 1425
+    },
+    {
+      "solution": -33301,
+      "ID": 1426
+    },
+    {
+      "solution": -7843,
+      "ID": 1427
+    },
+    {
+      "solution": -32522,
+      "ID": 1428
+    },
+    {
+      "solution": -17036,
+      "ID": 1429
+    },
+    {
+      "solution": -67900,
+      "ID": 1430
+    },
+    {
+      "solution": -33654,
+      "ID": 1431
+    },
+    {
+      "solution": -29511,
+      "ID": 1432
+    },
+    {
+      "solution": -53221,
+      "ID": 1433
+    },
+    {
+      "solution": -11837,
+      "ID": 1434
+    },
+    {
+      "solution": -1444,
+      "ID": 1435
+    },
+    {
+      "solution": -68772,
+      "ID": 1436
+    },
+    {
+      "solution": -64090,
+      "ID": 1437
+    },
+    {
+      "solution": -64553,
+      "ID": 1438
+    },
+    {
+      "solution": -64512,
+      "ID": 1439
+    },
+    {
+      "solution": -2276,
+      "ID": 1440
+    },
+    {
+      "solution": -57880,
+      "ID": 1441
+    },
+    {
+      "solution": -29790,
+      "ID": 1442
+    },
+    {
+      "solution": -46317,
+      "ID": 1443
+    },
+    {
+      "solution": -48536,
+      "ID": 1444
+    },
+    {
+      "solution": -16212,
+      "ID": 1445
+    },
+    {
+      "solution": -19217,
+      "ID": 1446
+    },
+    {
+      "solution": -32806,
+      "ID": 1447
+    },
+    {
+      "solution": -14792,
+      "ID": 1448
+    },
+    {
+      "solution": -45201,
+      "ID": 1449
+    },
+    {
+      "solution": -20623,
+      "ID": 1450
+    },
+    {
+      "solution": -1120,
+      "ID": 1451
+    },
+    {
+      "solution": -35347,
+      "ID": 1452
+    },
+    {
+      "solution": -40728,
+      "ID": 1453
+    },
+    {
+      "solution": -14014,
+      "ID": 1454
+    },
+    {
+      "solution": -24692,
+      "ID": 1455
+    },
+    {
+      "solution": 4548,
+      "ID": 1456
+    },
+    {
+      "solution": -46323,
+      "ID": 1457
+    },
+    {
+      "solution": -4903,
+      "ID": 1458
+    },
+    {
+      "solution": -3305,
+      "ID": 1459
+    },
+    {
+      "solution": -13905,
+      "ID": 1460
+    },
+    {
+      "solution": -36712,
+      "ID": 1461
+    },
+    {
+      "solution": -44637,
+      "ID": 1462
+    },
+    {
+      "solution": -44958,
+      "ID": 1463
+    },
+    {
+      "solution": -19286,
+      "ID": 1464
+    },
+    {
+      "solution": -59763,
+      "ID": 1465
+    },
+    {
+      "solution": -50620,
+      "ID": 1466
+    },
+    {
+      "solution": -14650,
+      "ID": 1467
+    },
+    {
+      "solution": -23138,
+      "ID": 1468
+    },
+    {
+      "solution": -60312,
+      "ID": 1469
+    },
+    {
+      "solution": -28260,
+      "ID": 1470
+    },
+    {
+      "solution": -41595,
+      "ID": 1471
+    },
+    {
+      "solution": -23754,
+      "ID": 1472
+    },
+    {
+      "solution": -13588,
+      "ID": 1473
+    },
+    {
+      "solution": 3108,
+      "ID": 1474
+    },
+    {
+      "solution": -67790,
+      "ID": 1475
+    },
+    {
+      "solution": -58112,
+      "ID": 1476
+    },
+    {
+      "solution": -64649,
+      "ID": 1477
+    },
+    {
+      "solution": -19517,
+      "ID": 1478
+    },
+    {
+      "solution": -53739,
+      "ID": 1479
+    },
+    {
+      "solution": -71188,
+      "ID": 1480
+    },
+    {
+      "solution": -9270,
+      "ID": 1481
+    },
+    {
+      "solution": -72636,
+      "ID": 1482
+    },
+    {
+      "solution": -3610,
+      "ID": 1483
+    },
+    {
+      "solution": -12451,
+      "ID": 1484
+    },
+    {
+      "solution": -8674,
+      "ID": 1485
+    },
+    {
+      "solution": -55669,
+      "ID": 1486
+    },
+    {
+      "solution": -39360,
+      "ID": 1487
+    },
+    {
+      "solution": -53067,
+      "ID": 1488
+    },
+    {
+      "solution": -13418,
+      "ID": 1489
+    },
+    {
+      "solution": -54279,
+      "ID": 1490
+    },
+    {
+      "solution": -19936,
+      "ID": 1491
+    },
+    {
+      "solution": -51807,
+      "ID": 1492
+    },
+    {
+      "solution": -19758,
+      "ID": 1493
+    },
+    {
+      "solution": -17532,
+      "ID": 1494
+    },
+    {
+      "solution": -32858,
+      "ID": 1495
+    },
+    {
+      "solution": -25399,
+      "ID": 1496
+    },
+    {
+      "solution": -48532,
+      "ID": 1497
+    },
+    {
+      "solution": -39632,
+      "ID": 1498
+    },
+    {
+      "solution": -53226,
+      "ID": 1499
+    },
+    {
+      "solution": -2491,
+      "ID": 1500
+    },
+    {
+      "solution": -9162,
+      "ID": 1501
+    },
+    {
+      "solution": -46905,
+      "ID": 1502
+    },
+    {
+      "solution": -7255,
+      "ID": 1503
+    },
+    {
+      "solution": -16104,
+      "ID": 1504
+    },
+    {
+      "solution": -42691,
+      "ID": 1505
+    },
+    {
+      "solution": -53984,
+      "ID": 1506
+    },
+    {
+      "solution": -21480,
+      "ID": 1507
+    },
+    {
+      "solution": -44804,
+      "ID": 1508
+    },
+    {
+      "solution": -47549,
+      "ID": 1509
+    },
+    {
+      "solution": -51778,
+      "ID": 1510
+    },
+    {
+      "solution": -20307,
+      "ID": 1511
+    },
+    {
+      "solution": -34317,
+      "ID": 1512
+    },
+    {
+      "solution": -67200,
+      "ID": 1513
+    },
+    {
+      "solution": -10977,
+      "ID": 1514
+    },
+    {
+      "solution": -20726,
+      "ID": 1515
+    },
+    {
+      "solution": -50504,
+      "ID": 1516
+    },
+    {
+      "solution": -58495,
+      "ID": 1517
+    },
+    {
+      "solution": 406,
+      "ID": 1518
+    },
+    {
+      "solution": -20469,
+      "ID": 1519
+    },
+    {
+      "solution": -47534,
+      "ID": 1520
+    },
+    {
+      "solution": -33511,
+      "ID": 1521
+    },
+    {
+      "solution": -73421,
+      "ID": 1522
+    },
+    {
+      "solution": -15126,
+      "ID": 1523
+    },
+    {
+      "solution": -39391,
+      "ID": 1524
+    },
+    {
+      "solution": -60135,
+      "ID": 1525
+    },
+    {
+      "solution": -65654,
+      "ID": 1526
+    },
+    {
+      "solution": -34662,
+      "ID": 1527
+    },
+    {
+      "solution": -47951,
+      "ID": 1528
+    },
+    {
+      "solution": -61521,
+      "ID": 1529
+    },
+    {
+      "solution": -62855,
+      "ID": 1530
+    },
+    {
+      "solution": -16479,
+      "ID": 1531
+    },
+    {
+      "solution": -3480,
+      "ID": 1532
+    },
+    {
+      "solution": -15483,
+      "ID": 1533
+    },
+    {
+      "solution": -57889,
+      "ID": 1534
+    },
+    {
+      "solution": -22974,
+      "ID": 1535
+    },
+    {
+      "solution": -53212,
+      "ID": 1536
+    },
+    {
+      "solution": -3192,
+      "ID": 1537
+    },
+    {
+      "solution": -46066,
+      "ID": 1538
+    },
+    {
+      "solution": -74318,
+      "ID": 1539
+    },
+    {
+      "solution": -60968,
+      "ID": 1540
+    },
+    {
+      "solution": -61012,
+      "ID": 1541
+    },
+    {
+      "solution": -31048,
+      "ID": 1542
+    },
+    {
+      "solution": -13541,
+      "ID": 1543
+    },
+    {
+      "solution": -62720,
+      "ID": 1544
+    },
+    {
+      "solution": -62714,
+      "ID": 1545
+    },
+    {
+      "solution": -51003,
+      "ID": 1546
+    },
+    {
+      "solution": -38890,
+      "ID": 1547
+    },
+    {
+      "solution": -69364,
+      "ID": 1548
+    },
+    {
+      "solution": -31058,
+      "ID": 1549
+    },
+    {
+      "solution": -62395,
+      "ID": 1550
+    },
+    {
+      "solution": -50692,
+      "ID": 1551
+    },
+    {
+      "solution": -15368,
+      "ID": 1552
+    },
+    {
+      "solution": -34545,
+      "ID": 1553
+    },
+    {
+      "solution": -19981,
+      "ID": 1554
+    },
+    {
+      "solution": -67067,
+      "ID": 1555
+    },
+    {
+      "solution": -55054,
+      "ID": 1556
+    },
+    {
+      "solution": -41420,
+      "ID": 1557
+    },
+    {
+      "solution": -37112,
+      "ID": 1558
+    },
+    {
+      "solution": -39056,
+      "ID": 1559
+    },
+    {
+      "solution": -35513,
+      "ID": 1560
+    },
+    {
+      "solution": -59752,
+      "ID": 1561
+    },
+    {
+      "solution": -48282,
+      "ID": 1562
+    },
+    {
+      "solution": -66877,
+      "ID": 1563
+    },
+    {
+      "solution": -58741,
+      "ID": 1564
+    },
+    {
+      "solution": -14096,
+      "ID": 1565
+    },
+    {
+      "solution": -4312,
+      "ID": 1566
+    },
+    {
+      "solution": -67132,
+      "ID": 1567
+    },
+    {
+      "solution": -66618,
+      "ID": 1568
+    },
+    {
+      "solution": -18299,
+      "ID": 1569
+    },
+    {
+      "solution": -43563,
+      "ID": 1570
+    },
+    {
+      "solution": -338,
+      "ID": 1571
+    },
+    {
+      "solution": -58119,
+      "ID": 1572
+    },
+    {
+      "solution": -70731,
+      "ID": 1573
+    },
+    {
+      "solution": -9297,
+      "ID": 1574
+    },
+    {
+      "solution": -70070,
+      "ID": 1575
+    },
+    {
+      "solution": -27254,
+      "ID": 1576
+    },
+    {
+      "solution": -46869,
+      "ID": 1577
+    },
+    {
+      "solution": -59351,
+      "ID": 1578
+    },
+    {
+      "solution": -20268,
+      "ID": 1579
+    },
+    {
+      "solution": -35209,
+      "ID": 1580
+    },
+    {
+      "solution": -59191,
+      "ID": 1581
+    },
+    {
+      "solution": -56458,
+      "ID": 1582
+    },
+    {
+      "solution": 3937,
+      "ID": 1583
+    },
+    {
+      "solution": -59071,
+      "ID": 1584
+    },
+    {
+      "solution": -58332,
+      "ID": 1585
+    },
+    {
+      "solution": -46462,
+      "ID": 1586
+    },
+    {
+      "solution": -43840,
+      "ID": 1587
+    },
+    {
+      "solution": -34552,
+      "ID": 1588
+    },
+    {
+      "solution": -3876,
+      "ID": 1589
+    },
+    {
+      "solution": 11997,
+      "ID": 1590
+    },
+    {
+      "solution": -51484,
+      "ID": 1591
+    },
+    {
+      "solution": -13343,
+      "ID": 1592
+    },
+    {
+      "solution": -60022,
+      "ID": 1593
+    },
+    {
+      "solution": -1632,
+      "ID": 1594
+    },
+    {
+      "solution": -40455,
+      "ID": 1595
+    },
+    {
+      "solution": -25885,
+      "ID": 1596
+    },
+    {
+      "solution": -6009,
+      "ID": 1597
+    },
+    {
+      "solution": -15042,
+      "ID": 1598
+    },
+    {
+      "solution": -50446,
+      "ID": 1599
+    },
+    {
+      "solution": -63349,
+      "ID": 1600
+    }
+  ]
+}

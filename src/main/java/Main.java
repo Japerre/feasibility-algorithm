@@ -1,6 +1,9 @@
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Queue;
@@ -8,6 +11,25 @@ import java.util.Queue;
 public class Main {
 
     static final int tAlfa = 0;
+
+    private static void writeSolutionToJsonFile(int[] solutions, File file) throws IOException {
+        int firstDotIndex = file.getName().indexOf(".");
+        String fileWithoutExtension = file.getName().substring(0, firstDotIndex);
+        JSONObject outer = new JSONObject();
+        JSONArray jsonArray = new JSONArray();
+        for (int i = 0; i < solutions.length; i++) {
+            JSONObject jsonObject = new JSONObject();
+            jsonObject.put("ID", i);
+            jsonObject.put("solution", solutions[i]);
+            jsonArray.add(jsonObject);
+        }
+        outer.put("solutions", jsonArray);
+        File dir = new File("solutions");
+        dir.mkdir();
+        FileWriter fileWriter = new FileWriter("solutions/" + fileWithoutExtension + "_sol.json");
+        fileWriter.write(outer.toJSONString());
+        fileWriter.close();
+    }
 
     private static boolean checkDomain(Graph graph, int t_iID, int[] s, int[] l) {
 
@@ -65,7 +87,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException, ParseException {
 
-        File file = new File("src/main/resources/feas/inc-1.json");
+        File file = new File("src/main/resources/feas/inc-2.json");
         Graph graph = new GraphFactory().getGraph(file);
 
         int nTimePoints = graph.getnTimePoints();
@@ -94,9 +116,8 @@ public class Main {
                 break;
             }
         }
-        System.out.println("feasible = " + feasible);
-        for (int i = 0; i < s.length; i++) {
-            System.out.println("s[" + i + "] = " + s[i]);
+        if(feasible){
+            writeSolutionToJsonFile(s, file);
         }
     }
 }
