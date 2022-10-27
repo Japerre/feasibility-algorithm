@@ -1,0 +1,149 @@
+{
+  "name": "inc-6",
+  "num-variables": 8,
+  "num-constraints": 10,
+  "status": "feasible",
+  "comment": "Instance based on the SPRAND shortest path generator from SPLib. Created by Carlo S. Sartori, Pieter Smet and Greet Vanden Berghe (2022).",
+  "variables": [
+    {
+      "id": 1,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 0,
+          "u": 180,
+          "profit": 282
+        },
+        {
+          "l": 240,
+          "u": 420,
+          "profit": 282
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 0,
+          "u": 180,
+          "profit": 236
+        },
+        {
+          "l": 240,
+          "u": 300,
+          "profit": 236
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 240,
+          "u": 360,
+          "profit": 168
+        },
+        {
+          "l": 420,
+          "u": 780,
+          "profit": 178
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 0,
+          "u": 300,
+          "profit": 41
+        },
+        {
+          "l": 720,
+          "u": 960,
+          "profit": 50
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 0,
+          "u": 180,
+          "profit": 411
+        },
+        {
+          "l": 300,
+          "u": 480,
+          "profit": 411
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 0,
+          "u": 240,
+          "profit": 360
+        },
+        {
+          "l": 300,
+          "u": 540,
+          "profit": 366
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 0,
+          "u": 240,
+          "profit": 425
+        },
+        {
+          "l": 600,
+          "u": 960,
+          "profit": 426
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "domain-size": 2,
+      "domains": [
+        {
+          "l": 180,
+          "u": 480,
+          "profit": 450
+        },
+        {
+          "l": 900,
+          "u": 960,
+          "profit": 457
+        }
+      ]
+    }
+  ],
+  "constraints": [
+    "1 2 -30",
+    "2 3 -70",
+    "3 4 -140",
+    "4 1 540",
+    "3 7 10",
+    "7 3 10",
+    "5 6 -30",
+    "6 7 -40",
+    "7 8 -100",
+    "8 5 540"
+  ]
+}
