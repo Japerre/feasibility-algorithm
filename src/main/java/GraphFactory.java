@@ -51,9 +51,26 @@ public class GraphFactory {
         }
     }
 
+    private List<List<Arc>> createAdjList (){
+
+        List<List<Arc>> adjList = new ArrayList<>();
+        adjList.add(new ArrayList<>());
+
+        for(int i=1; i<nTimePoints+1; i++){
+            ArrayList<Arc> arcsFromI = new ArrayList<>();
+            adjList.add(arcsFromI);
+            for(Arc a: arcs){
+                if(a.getSource() == i){
+                    arcsFromI.add(a);
+                }
+            }
+        }
+        return adjList;
+    }
+
     public Graph getGraph(File file) throws IOException, ParseException {
         readJson(file);
-        return new Graph(nTimePoints, nArcs, timePoints, arcs);
+        return new Graph(nTimePoints, nArcs, timePoints, createAdjList());
     }
 
 }

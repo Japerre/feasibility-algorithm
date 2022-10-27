@@ -6,33 +6,13 @@ public class Graph {
     private int nTimePoints;
     private int nArcs;
     private List<TimePoint> timePoints;
-    private List<Arc> arcs;
     private List<List<Arc>> adjList;
 
-
-    public Graph(int nTimePoints, int nArcs, List<TimePoint> timePoints, List<Arc> arcs) {
+    public Graph(int nTimePoints, int nArcs, List<TimePoint> timePoints, List<List<Arc>> adjList) {
         this.nTimePoints = nTimePoints;
         this.nArcs = nArcs;
         this.timePoints = timePoints;
-        this.arcs = arcs;
-        createAdjList();
-    }
-
-    private void createAdjList (){
-
-        adjList = new ArrayList<>();
-        adjList.add(new ArrayList<>());
-
-        for(int i=1; i<nTimePoints+1; i++){
-            ArrayList<Arc> arcsFromI = new ArrayList<>();
-            adjList.add(arcsFromI);
-            for(Arc a: arcs){
-                if(a.getSource() == i){
-                    arcsFromI.add(a);
-                }
-            }
-        }
-//        System.out.println("adjList = " + adjList);
+        this.adjList = adjList;
     }
 
     public List<Arc> getOutgoingArcsTAlfa(){

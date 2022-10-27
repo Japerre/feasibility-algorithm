@@ -9,7 +9,6 @@ public class Main {
 
     static final int tAlfa = 0;
 
-
     private static boolean checkDomain(Graph graph, int t_iID, int[] s, int[] l) {
 
         int s_i = s[t_iID];
@@ -66,7 +65,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException, ParseException {
 
-        File file = new File("src/main/resources/infeas/inf-1.json");
+        File file = new File("src/main/resources/feas/inc-1.json");
         Graph graph = new GraphFactory().getGraph(file);
 
         int nTimePoints = graph.getnTimePoints();
