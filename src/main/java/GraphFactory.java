@@ -21,6 +21,7 @@ public class GraphFactory {
     }
 
     private static void readJson(File file) throws IOException, ParseException {
+        JSONParser jsonParser = new JSONParser();
         Object obj = new JSONParser().parse(new FileReader(file));
         JSONObject jsonObject = (JSONObject) obj;
 

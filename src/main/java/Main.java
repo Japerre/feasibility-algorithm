@@ -1,8 +1,10 @@
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.LinkedList;
@@ -12,22 +14,25 @@ public class Main {
 
     static final int tAlfa = 0;
 
-    private static void writeSolutionToJsonFile(int[] solutions, File file) throws IOException {
+    private static void writeSolutionToJsonFile(int[] solutions, File file) throws IOException, ParseException {
+        Object obj = new JSONParser().parse(new FileReader(file));
+        JSONObject jsonObject = (JSONObject) obj;
+
         int firstDotIndex = file.getName().indexOf(".");
         String fileWithoutExtension = file.getName().substring(0, firstDotIndex);
-        JSONObject outer = new JSONObject();
+
         JSONArray jsonArray = new JSONArray();
         for (int i = 0; i < solutions.length; i++) {
-            JSONObject jsonObject = new JSONObject();
-            jsonObject.put("ID", i);
-            jsonObject.put("solution", solutions[i]);
-            jsonArray.add(jsonObject);
+            JSONObject sol_i = new JSONObject();
+            sol_i.put("ID", i);
+            sol_i.put("solution", solutions[i]);
+            jsonArray.add(sol_i);
         }
-        outer.put("solutions", jsonArray);
+        jsonObject.put("solutions", jsonArray);
         File dir = new File("solutions");
         dir.mkdir();
         FileWriter fileWriter = new FileWriter("solutions/" + fileWithoutExtension + "_sol.json");
-        fileWriter.write(outer.toJSONString());
+        fileWriter.write(jsonObject.toJSONString());
         fileWriter.close();
     }
 
@@ -87,7 +92,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException, ParseException {
 
-        File file = new File("src/main/resources/feas/inc-2.json");
+        File file = new File("src/main/resources/feas/inc-1.json");
         Graph graph = new GraphFactory().getGraph(file);
 
         int nTimePoints = graph.getnTimePoints();
