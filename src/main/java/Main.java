@@ -7,8 +7,6 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -16,24 +14,26 @@ public class Main {
 
     static final int tAlfa = 0;
 
-    private static void writeSolutionToJsonFile(int[] solutions, File file) throws IOException, ParseException {
-        Object obj = new JSONParser().parse(new FileReader(file));
+    private static void writeSolutionToJsonFile(int[] solutions, File instanceFile, String solutionDestDir, long elapsedTime) throws IOException, ParseException {
+        Object obj = new JSONParser().parse(new FileReader(instanceFile));
         JSONObject jsonObject = (JSONObject) obj;
 
-        int firstDotIndex = file.getName().indexOf(".");
-        String fileWithoutExtension = file.getName().substring(0, firstDotIndex);
+        jsonObject.put("elapsed_time(s)", elapsedTime * Math.pow(10,-9));
+
+        int firstDotIndex = instanceFile.getName().indexOf(".");
+        String fileWithoutExtension = instanceFile.getName().substring(0, firstDotIndex);
 
         JSONArray jsonArray = new JSONArray();
         for (int i = 0; i < solutions.length; i++) {
             JSONObject sol_i = new JSONObject();
-            sol_i.put("ID", i);
-            sol_i.put("solution", solutions[i]);
+            sol_i.put("id", i);
+            sol_i.put("solution", -solutions[i]);
             jsonArray.add(sol_i);
         }
         jsonObject.put("solutions", jsonArray);
-        File dir = new File("solutions");
+        File dir = new File(solutionDestDir + "/solutions/");
         dir.mkdir();
-        FileWriter fileWriter = new FileWriter("solutions/" + fileWithoutExtension + "_sol.json");
+        FileWriter fileWriter = new FileWriter(new File(dir, fileWithoutExtension + "_sol.json"));
         fileWriter.write(jsonObject.toJSONString());
         fileWriter.close();
     }
@@ -90,7 +90,7 @@ public class Main {
         return true;
     }
 
-    public static void checkFeasibility(File file) throws IOException, ParseException {
+    public static Object[] checkFeasibility(File file) throws IOException, ParseException {
         Graph graph = new GraphFactory().getGraph(file);
 
         int nTimePoints = graph.getnTimePoints();
@@ -119,20 +119,44 @@ public class Main {
                 break;
             }
         }
-        if (feasible) {
-            writeSolutionToJsonFile(s, file);
-        }
+
+        Object[] returnObject = new Object[2];
+        returnObject[0] = feasible;
+        returnObject[1] = s;
+        return returnObject;
     }
 
 
     public static void main(String[] args) throws IOException, ParseException {
-        File file = new File("src/main/resources/feas");
-        if(file.isDirectory()){
-            for(File f : file.listFiles()){
-                checkFeasibility(f);
+
+        String instancePath = args[0];
+        String solutionsPath = args[1];
+
+        boolean feasible = false;
+        File instanceFile = new File(instancePath);
+        if (instanceFile.isDirectory()) {
+            for (File f : instanceFile.listFiles()) {
+                System.out.println("f = " + f);
+                long start = System.nanoTime();
+                Object[] returnObject = checkFeasibility(f);
+                long elapsedTime = System.nanoTime() - start;
+                System.out.println("elapsedTime(s) = " + elapsedTime * Math.pow(10,-9));
+                feasible = (boolean) returnObject[0];
+                if (feasible) {
+                    int[] s = (int[]) returnObject[1];
+                    writeSolutionToJsonFile(s, f, solutionsPath, elapsedTime);
+                }
             }
         } else {
-            checkFeasibility(file);
+            System.out.println("f = " + instanceFile);
+            long start = System.nanoTime();
+            Object[] returnObject = checkFeasibility(instanceFile);
+            long elapsedTime = System.nanoTime() - start;
+            System.out.println("elapsedTime(s) = " + elapsedTime * Math.pow(10,-9));
+            if (feasible) {
+                int[] s = (int[]) returnObject[1];
+                writeSolutionToJsonFile(s, instanceFile, solutionsPath, elapsedTime);
+            }
         }
     }
 }
